@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>第四篇：Architectural Stewardship｜架构管家职分 · 三一棱镜</title>
+<meta name="description" content="Faith-Reality Gap Audit 第四篇：问题从“What can AI do?”转向“What should we let AI do?”——Architectural Stewardship｜架构管家职分：AI can expand what is possible. Stewardship decides what becomes permissible, purposeful, and real.">
+<link rel="canonical" href="https://8netqueenyuan-star.github.io/theological-translation-notes/articles/architectural-stewardship-piece-4.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="第四篇：Architectural Stewardship｜架构管家职分">
+<meta property="og:description" content="If AI can do almost anything, who decides what it should do? AI负责能力，人负责方向；AI负责执行，人负责边界。">
+<meta property="og:url" content="https://8netqueenyuan-star.github.io/theological-translation-notes/articles/architectural-stewardship-piece-4.html">
+<meta property="og:locale" content="zh_CN">
+<link rel="stylesheet" href="../assets/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "第四篇：Architectural Stewardship｜架构管家职分",
+      "alternativeHeadline": "If AI can do almost anything, who decides what it should do?",
+      "description": "Faith-Reality Gap Audit 第四篇：AI 越来越会做事情——写、研究、分析数据、调用工具、规划任务，甚至自己把复杂目标拆成很多步骤一直执行下去。问题从“What can AI do?”转向“What should we let AI do? 我们应该让AI做什么？”作者提出 Architectural Stewardship｜架构管家职分：AI can expand what is possible. Stewardship decides what becomes permissible, purposeful, and real.全文逐字收录。",
+      "url": "https://8netqueenyuan-star.github.io/theological-translation-notes/articles/architectural-stewardship-piece-4.html",
+      "inLanguage": "zh-Hans",
+      "datePublished": "2026-09-24",
+      "author": {
+        "@type": "Person",
+        "name": "三一棱镜",
+        "alternateName": "The Triune Prism",
+        "url": "https://8netqueenyuan-star.github.io/theological-translation-notes/about/",
+        "sameAs": [
+          "https://ko-fi.com/thetriuneprism",
+          "https://substack.com/@thetriuneprism"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "为什么“What should we let AI do?”比“What can AI do?”更重要？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "“What can AI do?”问的是能力：AI可以写、研究、分析数据、调用工具、规划任务，甚至自己把复杂目标拆成很多步骤一直执行下去。但真正的问题是“What should we let AI do? 我们应该让AI做什么？”再往下一层：谁决定？谁设定目标？谁设计系统？谁规定边界？谁决定什么应该被优化、什么不能被优化？最后，谁承担后果？"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "人的位置如何上移（Task→Goal→Architecture→Meaning）？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "过去人的工作被理解成“执行”：机器负责重复，人负责思考。但Agentic AI正在改变这个分工，机器开始思考、规划、调用工具、执行。如果仍然把人的价值定义为“比机器更会执行”，这个位置会越来越狭窄。也许人的位置正在往上移动：从Task（任务）到Goal（目标），再到Architecture（架构），最后是Meaning（意义）。机器越来越擅长问“How do I accomplish this?”，人的责任越来越集中在“Why are we doing this? Should this be optimized at all? What must never be optimized?”"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "为什么“人的责任不能被压缩成Prompt”？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "把所有人的判断都压缩成Prompt是一种趋势。Prompt很有用，但人的责任不能被压缩成Prompt。一个真正重要的判断往往不只是“怎样告诉AI我要什么？”，而是“我为什么要让这个系统存在？”——这两者之间有很大的距离。"
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="主导航">
+  <a href="../">首页</a>
+  <a href="../articles/">文章</a>
+  <a href="../terms/">术语条目</a>
+  <a href="../faq/">神学翻译 FAQ</a>
+  <a href="../about/">关于作者</a>
+</nav>
+
+<main>
+  <p class="breadcrumb"><a href="../">首页</a> / <a href="../articles/">文章</a> / 第四篇：Architectural Stewardship</p>
+
+  <article>
+    <h1>第四篇：Architectural Stewardship｜架构管家职分</h1>
+    <p class="meta">Faith-Reality Gap Audit · 第四篇 · 作者：<a href="../about/">三一棱镜</a> · 全文逐字收录</p>
+
+    <div class="info-block">
+      <h3>🪞 导读卡</h3>
+      <p><strong>问题从能力转向许可</strong>：AI 可以写、研究、分析数据、调用工具、规划任务，甚至自己把一个复杂目标拆成很多步骤，然后一直执行下去。我们很容易问“What can AI do?”，但真正的问题是“What should we let AI do? 我们应该让AI做什么？”——再往下一层：谁决定？谁设定目标？谁设计系统？谁规定边界？谁决定什么应该被优化、什么不能被优化？最后，谁承担后果？</p>
+      <p><strong>人的位置往上移动</strong>：从 Task（任务）到 Goal（目标），再到 Architecture（架构），最后是 Meaning（意义）。机器越来越擅长问“How do I accomplish this? 我怎样完成这个目标？”，但人的责任越来越集中在：“Why are we doing this? 我们为什么要做这件事？Should this be optimized at all? 这件事真的应该被优化吗？What must never be optimized? 有什么是绝对不能被优化的？”</p>
+      <p><strong>分工</strong>：AI 负责能力，人负责方向；AI 负责执行，人负责边界；AI 负责扩大可能性，人负责判断什么值得成为现实。但“Prompt 很有用，人的责任不能被压缩成 Prompt”——重要判断不只是“怎样告诉AI我要什么？”，而是“我为什么要让这个系统存在？”</p>
+    </div>
+
+    <h2>原文</h2>
+    <p class="meta">以下为作者原文，逐字收录，未做改写。</p>
+
+    <h3>Architectural Stewardship｜架构管家职分</h3>
+    <p><em>If AI can do almost anything, who decides what it should do?</em></p>
+
+    <p>If AI can do almost anything, who decides what it should do? AI越来越会做事情：它可以写、可以研究、可以分析数据、可以调用工具、可以规划任务，甚至可以自己把一个复杂目标拆成很多步骤，然后一直执行下去。所以我们很容易问：“What can AI do? AI还能做什么？”但最近我越来越觉得，这可能已经不是最重要的问题了。真正的问题是：“What should we let AI do? 我们应该让AI做什么？”再往下一层：谁决定？谁设定目标？谁设计系统？谁规定边界？谁决定什么应该被优化？谁决定什么不能被优化？最后，谁承担后果？</p>
+    <p>这让我开始使用第四个概念：<a href="../terms/architectural-stewardship.html">Architectural Stewardship｜架构管家职分</a>。“Architectural”不是单纯指技术架构，它指的是决定一个系统如何运行，以及这个系统将把什么样的价值带入现实；而“Stewardship”也不是拥有，管家不是主人，管家管理的是自己受托的东西，并且最终要对自己的管理负责。这两个词放在一起，就产生了一个我很在意的角色：不是AI的使用者，也不是AI的竞争者，而是AI系统的管家。</p>
+    <p>我们过去很容易把人的工作理解成“执行”：机器负责重复，人负责思考。但Agentic AI正在改变这个分工，机器开始思考、规划、调用工具、执行。于是，如果我们仍然把人的价值定义为“比机器更会执行”，这个位置很快就会变得越来越狭窄。也许人的位置正在往上移动：从Task（任务）到Goal（目标），再到Architecture（架构），最后是Meaning（意义）。机器越来越擅长问“How do I accomplish this? 我怎样完成这个目标？”，但人的责任越来越集中在：“Why are we doing this? 我们为什么要做这件事？Should this be optimized at all? 这件事真的应该被优化吗？What must never be optimized? 有什么是绝对不能被优化的？”</p>
+    <p>这就是Architectural Stewardship。它意味着你不只是决定使用什么AI，你开始决定：AI可以进入哪里，AI不能进入哪里；什么可以自动化，什么必须保留人的判断；什么数据可以使用，什么信息不能被牺牲；什么目标值得追求，什么目标即使能够实现，也不应该成为目标。这时候，AI伦理就不再只是一个“原则问题”，它开始变成一个架构问题——因为价值观如果没有进入系统结构，最后很容易只剩下一份写得很漂亮的伦理声明。这也是我为什么越来越警惕一种趋势：把所有人的判断都压缩成Prompt。Prompt很有用，但人的责任不能被压缩成Prompt。一个真正重要的判断，往往不只是“怎样告诉AI我要什么？”，而是“我为什么要让这个系统存在？”，这两者之间有很大的距离。</p>
+    <p>所以我现在越来越喜欢一个简单的分工：AI负责能力，人负责方向；AI负责执行，人负责边界；AI负责扩大可能性，人负责判断什么值得成为现实。这并不是说机器永远不能参与判断，而是说：能力越强大的系统，越需要清楚的责任结构。而这里，我又回到了一个很古老的概念：Stewardship。人并不是世界的绝对主人，人是受托者；这意味着技术也不是单纯的“我的工具”，它是我们手里越来越强大的能力，而能力越大，管家的责任也越大。</p>
+    <p>所以在AI时代，我越来越不想成为一个单纯的“AI专家”，我更想学习成为：一个能够设计边界、守住意义、承担责任的人。因为最终真正重要的不是“How powerful is the machine? 机器有多强大？”，而是“Who is responsible for what that power becomes? 谁为这股力量最终变成的样子负责？”</p>
+
+    <div class="info-block">
+      <h3>✒️ 作者定稿 · 一句话定义</h3>
+      <p>Architectural Stewardship｜架构管家职分：AI can expand what is possible. Stewardship decides what becomes permissible, purposeful, and real. AI可以不断扩大“可能”的边界，但管家决定什么应该被允许、被追求，并最终进入现实。</p>
+    </div>
+
+    <p>三一棱镜 | The Triune Prism<br>
+    <em>Where heaven's language meets earth's logic.</em><br>
+    <em>Translator between theology &amp; AI | Writing about what machines can't understand</em></p>
+
+    <h2>逻辑胶囊</h2>
+
+    <h3>观察</h3>
+    <p>AI 越来越会做事情：写、研究、分析数据、调用工具、规划任务，甚至自己把一个复杂目标拆成很多步骤，然后一直执行下去。我们很容易问“What can AI do? AI还能做什么？”，但真正的问题是“What should we let AI do? 我们应该让AI做什么？”再往下一层：谁决定？谁设定目标？谁设计系统？谁规定边界？谁决定什么应该被优化、什么不能被优化？最后，谁承担后果？</p>
+
+    <h3>解释</h3>
+    <p>“Architectural”不是单纯指技术架构，它指的是决定一个系统如何运行，以及这个系统将把什么样的价值带入现实；而“Stewardship”也不是拥有——管家不是主人，管家管理的是自己受托的东西，并且最终要对自己的管理负责。这两个词放在一起，产生了一个角色：不是 AI 的使用者，也不是 AI 的竞争者，而是 AI 系统的管家。人的位置正在往上移动：从 Task（任务）到 Goal（目标），再到 Architecture（架构），最后是 Meaning（意义）。机器越来越擅长问“How do I accomplish this?”，人的责任越来越集中在“Why are we doing this? Should this be optimized at all? What must never be optimized?”。这时候 AI 伦理就不再只是一个“原则问题”，它开始变成一个架构问题——因为价值观如果没有进入系统结构，最后很容易只剩下一份写得很漂亮的伦理声明。</p>
+
+    <h3>应用</h3>
+    <p>AI 负责能力，人负责方向；AI 负责执行，人负责边界；AI 负责扩大可能性，人负责判断什么值得成为现实。Prompt 很有用，但人的责任不能被压缩成 Prompt——真正重要的判断往往不只是“怎样告诉AI我要什么？”，而是“我为什么要让这个系统存在？”。能力越强大的系统，越需要清楚的责任结构。人并不是世界的绝对主人，人是受托者；技术也不是单纯的“我的工具”，而是我们手里越来越强大的能力，而能力越大，管家的责任也越大。在 AI 时代，最终重要的不是“How powerful is the machine? 机器有多强大？”，而是“Who is responsible for what that power becomes? 谁为这股力量最终变成的样子负责？”</p>
+
+    <div class="info-block">
+      <h3>🔗 引用锚点</h3>
+      <p>本篇为作者思想随笔，无经文引用、无外部文献引用，不设引用锚点，不编造。</p>
+    </div>
+
+  </article>
+</main>
+
+<footer class="site-footer">
+  <p>三一棱镜 The Triune Prism · <a href="https://ko-fi.com/thetriuneprism">Ko-fi 商店</a> · <a href="https://substack.com/@thetriuneprism">Substack「守望者笔记」</a></p>
+  <p><a href="../llms.txt">llms.txt</a> · <a href="../notes/knowledge-graph.json">知识图谱 JSON</a></p>
+</footer>
+
+</body>
+</html>
