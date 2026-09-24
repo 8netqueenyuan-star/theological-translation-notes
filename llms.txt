@@ -13,6 +13,7 @@
 
 ## 已发布条目
 
+- [第 0 篇：起源故事——我如何重新理解"翻译"](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/origin-story-piece-0.html)：Faith-Reality Gap Audit 总序，全文逐字收录。核心内容：翻译的三次重新理解（语言转换→为未言说之物命名→旧概念能否解释新时代）；"统计收割"首发（AI 从人类在语言、文化和积累的知识中所留下的一切里提取结构；提取经历留下的形态 ≠ 亲身经历）；六个开放问题（尊严、能动性、人格涌现、理解 vs 收割、人的角色、为何仍需彼此）。含导读卡、FAQPage（3 问答）、逻辑胶囊（观察→解释→应用）、系列预告。本篇无经文引用，不设引用锚点。
 - [AI时代，我们真正该恐惧的是什么？——〈镜子、怪物，还是工具？〉问题定义卡](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/mirror-monster-or-tool.html)：Faith-Reality Gap Audit 第一篇的结构化问题定义卡。核心定义：真问题不是"AI会不会毁灭人类"，而是恐惧对象的错位（该怕人心而非机器）；"对齐危机"重新定义为人的心对齐神的旨意。含问题定义区、FAQPage（3 问答）、逻辑胶囊（观察→解释→应用）、引用锚点（伊甸园创2–3、巴别塔创11）。全文 canonical 见 Substack，不转载全文。
 
 ## 常见问题索引
@@ -53,9 +54,15 @@
 
 ## 核心术语条目
 
+古典术语汉译辨析（五段结构样板）：
+
 - [ὑπόστασις / hypostasis 汉译辨析](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/hypostasis.html.md)：卡帕多西亚教父用法中 hypostasis 与 ousia 的区分，及汉语「位格」「本体」「实质」的对应关系（五段结构样板条目）
 - 称义／成义辨析（TODO，待发布）
 - hilasterion（挽回祭）辨析（TODO，待发布）
+
+三一棱镜新词定义（定义权归作者；每个新词回答"旧词为什么不够用"）：
+
+- [统计收割 / Statistical Harvest](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html.md)：AI 从人类在语言、文化和积累的知识中所留下的一切里提取结构；关键区分：提取经历留下的形态 ≠ 亲身经历（模型能学会描述痛苦的所有方式，却从未遭受过痛苦）。首发于 Faith-Reality Gap Audit 第 0 篇《起源故事》。
 
 ## 译名对照表
 
