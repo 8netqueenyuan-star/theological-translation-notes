@@ -1,4 +1,4 @@
-# 三棱镜 · 神学翻译注释库（GitHub Pages 中枢站）
+# 三一棱镜 · 神学翻译注释库（GitHub Pages 中枢站）
 
 纯静态网站脚手架，直接推送到 GitHub 即可通过 GitHub Pages 上线。无构建工具、无 JS 框架。
 

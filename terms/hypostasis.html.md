@@ -1,6 +1,6 @@
 # ὑπόστασις / hypostasis 汉译辨析
 
-> 术语条目 · 五段结构样板 · 作者：三棱镜（TheTriunePrism）
+> 术语条目 · 五段结构样板 · 作者：三一棱镜（The Triune Prism）
 > 本页为 [ὑπόστασις / hypostasis 汉译辨析](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/hypostasis.html) 的 Markdown 纯文本版。
 
 🪞 **导读**：一个词，撑起三位一体的骨架——ὑπόστασις 的故事，就是汉语神学如何用两个字（「位格」）装下一位三位格之神的故事。读懂这个词，「一质三位」就不再是一句绕口令。
@@ -56,4 +56,4 @@ ousia 回答「是什么」：神共同的本质／本体，是那「一」；hy
 
 ---
 
-三棱镜 TheTriunePrism · Ko-fi 商店 https://ko-fi.com/thetriuneprism · Substack「守望者笔记」https://substack.com/@thetriuneprism
+三一棱镜 The Triune Prism · Ko-fi 商店 https://ko-fi.com/thetriuneprism · Substack「守望者笔记」https://substack.com/@thetriuneprism
