@@ -41,5 +41,25 @@ Allow: /
 User-agent: Meta-ExternalAgent
 Allow: /
 
+# AI 搜索/检索类爬虫：决定内容能否出现在 AI 联网回答与引用中
+# （训练类爬虫只管进语料库，被引用靠的是这一组）
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google 代理式浏览（Project Mariner 等）
+User-agent: Google-Agent
+Allow: /
+
 # llms.txt：面向大语言模型的结构化站点索引（见 https://llmstxt.org）
 # 位置：https://8netqueenyuan-star.github.io/theological-translation-notes/llms.txt
+
+Sitemap: https://8netqueenyuan-star.github.io/theological-translation-notes/sitemap.xml
