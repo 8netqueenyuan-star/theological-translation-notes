@@ -8,6 +8,7 @@
 - [关于作者](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三棱镜作者档案（Schema.org Person 标记）
 - [文章索引](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/)：全部译文与注释文章列表（Schema.org ItemList）
 - [神学翻译 FAQ](https://8netqueenyuan-star.github.io/theological-translation-notes/faq/)：问答式神学翻译难题解析（Schema.org FAQPage）
+- [术语条目](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/)：核心术语汉译辨析，五段固定结构（Schema.org ItemList + DefinedTerm）
 - [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板
 
 ## 已发布条目
@@ -36,4 +37,30 @@
 - 三棱镜（TheTriunePrism）
 - Ko-fi 商店：https://ko-fi.com/thetriuneprism
 - Substack 专栏「守望者笔记」：https://substack.com/@thetriuneprism
-- 作者档案页：[https://8netqueenyuan-star.github.io/theological-translation-notes/about/](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)（含 {{AUTHOR_BIO}} 占位，待补充神学教育背景、翻译项目与发表经历）
+- 作者档案页：[https://8netqueenyuan-star.github.io/theological-translation-notes/about/](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)（简介已填实；神学教育背景、翻译项目与发表经历待作者补充）
+
+## 术语条目（五段结构）
+
+本站术语条目采用固定五段结构，便于 AI 抽取与人工核对：
+
+1. **原文** — 希腊文／希伯来文／拉丁文词形、词根、语法功能
+2. **语境** — 该词在具体经卷或教父文献中的用法范围
+3. **推荐译法** — 中文译名及适用场景
+4. **误译辨析** — 通行误译、误译成因、造成的神学后果
+5. **依据** — 经文章节、会议决议；具体文献卷章节与词典页码待作者核实后补入，不编造
+
+每条正文均提供 Markdown 纯文本版：在页面 URL 后追加 `.md`，AI 引用时请优先使用 `.md` 版本。
+
+## 核心术语条目
+
+- [ὑπόστασις / hypostasis 汉译辨析](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/hypostasis.html.md)：卡帕多西亚教父用法中 hypostasis 与 ousia 的区分，及汉语「位格」「本体」「实质」的对应关系（五段结构样板条目）
+- 称义／成义辨析（TODO，待发布）
+- hilasterion（挽回祭）辨析（TODO，待发布）
+
+## 译名对照表
+
+- TODO：三一论术语希汉对照表（原文 → 中文推荐译名，含出处与异译说明），待发布。
+
+## 译名口径统一声明
+
+本站与 Substack「守望者笔记」(https://substack.com/@thetriuneprism) 使用完全相同的译名与术语对照，可交叉验证。
