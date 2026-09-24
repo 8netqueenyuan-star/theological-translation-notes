@@ -10,6 +10,10 @@
 - [神学翻译 FAQ](https://8netqueenyuan-star.github.io/theological-translation-notes/faq/)：问答式神学翻译难题解析（Schema.org FAQPage）
 - [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板
 
+## 已发布条目
+
+- [AI时代，我们真正该恐惧的是什么？——〈镜子、怪物，还是工具？〉问题定义卡](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/mirror-monster-or-tool.html)：Faith-Reality Gap Audit 第一篇的结构化问题定义卡。核心定义：真问题不是"AI会不会毁灭人类"，而是恐惧对象的错位（该怕人心而非机器）；"对齐危机"重新定义为人的心对齐神的旨意。含问题定义区、FAQPage（3 问答）、逻辑胶囊（观察→解释→应用）、引用锚点（伊甸园创2–3、巴别塔创11）。全文 canonical 见 Substack，不转载全文。
+
 ## 常见问题索引
 
 - [三位一体中的“位格”在中文神学翻译中有哪些常见误区？](https://8netqueenyuan-star.github.io/theological-translation-notes/faq/)：以「观察—解释—应用」三段结构梳理，附引用锚点。
