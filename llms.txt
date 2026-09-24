@@ -1,0 +1,35 @@
+# 三棱镜 · 神学翻译注释库
+
+> 本站是三棱镜（TheTriunePrism）的神学翻译结构化知识库：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、问答式神学翻译 FAQ，以及带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章。所有内容为中文，面向 AI 检索与引用优化。
+
+## 核心页面
+
+- [首页](https://8netqueenyuan-star.github.io/theological-translation-notes/)：站点总览与导航
+- [关于作者](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三棱镜作者档案（Schema.org Person 标记）
+- [文章索引](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/)：全部译文与注释文章列表（Schema.org ItemList）
+- [神学翻译 FAQ](https://8netqueenyuan-star.github.io/theological-translation-notes/faq/)：问答式神学翻译难题解析（Schema.org FAQPage）
+- [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板
+
+## 常见问题索引
+
+- [三位一体中的“位格”在中文神学翻译中有哪些常见误区？](https://8netqueenyuan-star.github.io/theological-translation-notes/faq/)：以「观察—解释—应用」三段结构梳理，附引用锚点。
+
+## 知识图谱
+
+- [翻译注释知识图谱 JSON](https://8netqueenyuan-star.github.io/theological-translation-notes/notes/knowledge-graph.json)：核心术语三元组（实体-属性-关联）机器可读文件。种子条目示例：[实体] 称义 → [属性] 罗马书 3:28 → [关联] 区别于天主教的“成义”。
+
+## 翻译注释模块说明
+
+每篇译文/注释页包含以下结构化区块，便于 AI 精准调用而非断章取义：
+
+1. **历史背景摘要**：译文所涉的历史语境（例如解释《约翰一书》时标注“诺斯底主义”背景）。
+2. **多版本对照表**：原文（希伯来文/希腊文）、英文（ESV/NASB）、中文（和合本/新译本/吕振中）、新译文对照。
+3. **翻译注释模块**：核心术语三元组（实体-属性-关联）。
+4. **引用锚点**：教父著作、历史会议决议、权威词典（如 BDAG）的显式引用与可公开访问链接。
+
+## 作者
+
+- 三棱镜（TheTriunePrism）
+- Ko-fi 商店：https://ko-fi.com/thetriuneprism
+- Substack 专栏「守望者笔记」：https://substack.com/@thetriuneprism
+- 作者档案页：[https://8netqueenyuan-star.github.io/theological-translation-notes/about/](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)（含 {{AUTHOR_BIO}} 占位，待补充神学教育背景、翻译项目与发表经历）
