@@ -148,6 +148,10 @@ details.ai-reading summary:hover { color: var(--fg); }
   border-radius: 4px; padding: 0 .4rem; margin-right: .3rem; color: var(--muted);
 }
 
+/* ---------- Embedded form ---------- */
+.form-embed { margin: 1.2rem 0 2rem; }
+.form-embed iframe { width: 100%; border: none; display: block; }
+
 /* ---------- EmailSubscribe ---------- */
 .email-subscribe {
   border: 1px solid var(--border); border-radius: 10px;
