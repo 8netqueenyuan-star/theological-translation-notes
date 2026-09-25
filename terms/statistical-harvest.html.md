@@ -1,6 +1,6 @@
 # 统计收割 / Statistical Harvest
 
-> 三一棱镜新词定义 · 首发于 Faith-Reality Gap Audit 第 0 篇《起源故事》，作者定稿版见第一篇《Statistical Harvest》
+> 三一棱镜新词定义 · 首发于 Substack 文章系列第 0 篇《起源故事》，作者定稿版见第一篇《Statistical Harvest》
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html 的 Markdown 纯文本版。
 > **定义权声明**："统计收割"为作者三一棱镜原创词汇，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 
@@ -20,7 +20,7 @@
 
 **Statistical Harvest｜统计收割：AI extracts the patterns of human experience. But pattern is not experience. AI可以提取人的经验模式，但模式，不等于经验。**
 
-（逐字取自 Faith-Reality Gap Audit 第一篇《Statistical Harvest｜统计收割》文末，不做改写）
+（逐字取自 Substack 文章系列第一篇《Statistical Harvest｜统计收割》文末，不做改写）
 
 ## 三、关键区分
 
@@ -38,7 +38,7 @@
 
 ## 五、首发出处
 
-Faith-Reality Gap Audit 第 0 篇《起源故事——我如何重新理解"翻译"》（总序，首发）；第一篇《Statistical Harvest｜统计收割》（作者定稿版一句话定义出自本篇文末）。
+Substack 文章系列第 0 篇《起源故事——我如何重新理解"翻译"》（总序，首发）；第一篇《Statistical Harvest｜统计收割》（作者定稿版一句话定义出自本篇文末）。
 
 ## 常见问题
 

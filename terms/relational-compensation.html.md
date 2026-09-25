@@ -1,6 +1,6 @@
 # 关系代偿假设 / Relational Compensation Hypothesis
 
-> 三一棱镜新词定义 · 首发于 Faith-Reality Gap Audit 第五篇《关系代偿假设｜Relational Compensation Hypothesis》
+> 三一棱镜新词定义 · 首发于 Substack 文章系列第五篇《关系代偿假设｜Relational Compensation Hypothesis》
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html 的 Markdown 纯文本版。
 > **定义权声明**："关系代偿假设"为作者三一棱镜原创词汇，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写；术语史注按作者本人意见记录。
 
@@ -19,7 +19,7 @@
 
 **关系代偿假设｜Relational Compensation Hypothesis：Compensation is not connection. 代偿，不是联结。**
 
-（作者定稿版，逐字取自 Faith-Reality Gap Audit 第五篇文末，不做改写）
+（作者定稿版，逐字取自 Substack 文章系列第五篇文末，不做改写）
 
 ## 四、关键区分
 
@@ -48,7 +48,7 @@
 
 ## 六、首发出处
 
-Faith-Reality Gap Audit 第五篇《关系代偿假设｜Relational Compensation Hypothesis》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
+Substack 文章系列第五篇《关系代偿假设｜Relational Compensation Hypothesis》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
 
 ## 常见问题
 

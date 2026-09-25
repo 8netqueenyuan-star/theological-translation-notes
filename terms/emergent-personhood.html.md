@@ -1,6 +1,6 @@
 # 涌现的人格 / Emergent Personhood
 
-> 三一棱镜新词定义 · 首发于 Faith-Reality Gap Audit 第六篇《第六篇：Emergent Personhood｜涌现的人格》
+> 三一棱镜新词定义 · 首发于 Substack 文章系列第六篇《第六篇：Emergent Personhood｜涌现的人格》
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html 的 Markdown 纯文本版。
 > **定义权声明**："涌现的人格"为作者三一棱镜原创词汇，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 
@@ -12,7 +12,7 @@
 
 **Emergent Personhood｜涌现的人格：Are we witnessing emergent personhood—or increasingly sophisticated simulation? 我们正在见证人格的涌现，还是越来越精细的模拟？**
 
-（作者定稿版，逐字取自 Faith-Reality Gap Audit 第六篇文末；作者确立：本篇姿态即提问，定义句保持提问形式，不做断言式改写）
+（作者定稿版，逐字取自 Substack 文章系列第六篇文末；作者确立：本篇姿态即提问，定义句保持提问形式，不做断言式改写）
 
 ## 三、关键区分
 
@@ -50,7 +50,7 @@
 
 ## 六、首发出处
 
-Faith-Reality Gap Audit 第六篇《第六篇：Emergent Personhood｜涌现的人格》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
+Substack 文章系列第六篇《第六篇：Emergent Personhood｜涌现的人格》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
 
 ## 常见问题
 

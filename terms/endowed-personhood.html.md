@@ -1,6 +1,6 @@
 # 被赋予的人格 / Endowed Personhood
 
-> 三一棱镜新词定义 · 首发于 Faith-Reality Gap Audit 第三篇《Endowed Personhood｜被赋予的人格》
+> 三一棱镜新词定义 · 首发于 Substack 文章系列第三篇《Endowed Personhood｜被赋予的人格》
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html 的 Markdown 纯文本版。
 > **定义权声明**：“被赋予的人格”为作者三一棱镜原创词汇，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 
@@ -14,7 +14,7 @@
 
 **Endowed Personhood｜被赋予的人格：Your value is not a function of your output. 人的价值，不是生产力的函数。**
 
-（作者定稿版，逐字取自 Faith-Reality Gap Audit 第三篇文末，不做改写）
+（作者定稿版，逐字取自 Substack 文章系列第三篇文末，不做改写）
 
 ## 三、关键区分
 
@@ -37,7 +37,7 @@
 
 ## 五、首发出处
 
-Faith-Reality Gap Audit 第三篇《Endowed Personhood｜被赋予的人格》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
+Substack 文章系列第三篇《Endowed Personhood｜被赋予的人格》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
 
 ## 常见问题
 

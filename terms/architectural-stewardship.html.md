@@ -1,6 +1,6 @@
 # 架构管家职分 / Architectural Stewardship
 
-> 三一棱镜新词定义 · 首发于 Faith-Reality Gap Audit 第四篇《Architectural Stewardship｜架构管家职分》
+> 三一棱镜新词定义 · 首发于 Substack 文章系列第四篇《Architectural Stewardship｜架构管家职分》
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html 的 Markdown 纯文本版。
 > **定义权声明**：“架构管家职分”为作者三一棱镜原创词汇，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 
@@ -12,7 +12,7 @@
 
 **Architectural Stewardship｜架构管家职分：AI can expand what is possible. Stewardship decides what becomes permissible, purposeful, and real. AI可以不断扩大“可能”的边界，但管家决定什么应该被允许、被追求，并最终进入现实。**
 
-（作者定稿版，逐字取自 Faith-Reality Gap Audit 第四篇文末，不做改写）
+（作者定稿版，逐字取自 Substack 文章系列第四篇文末，不做改写）
 
 ## 三、关键区分
 
@@ -39,7 +39,7 @@
 
 ## 五、首发出处
 
-Faith-Reality Gap Audit 第四篇《Architectural Stewardship｜架构管家职分》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
+Substack 文章系列第四篇《Architectural Stewardship｜架构管家职分》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
 
 ## 常见问题
 
