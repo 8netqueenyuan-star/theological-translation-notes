@@ -95,3 +95,94 @@ pre {
 .meta { color: var(--muted); font-size: .9rem; }
 ul.clean { list-style: none; padding: 0; }
 ul.clean li { margin: .6rem 0; }
+
+/* ---------- Concept Cards ---------- */
+.concept-fields { margin: 1.5rem 0; }
+.concept-fields dt {
+  font-weight: 700; margin-top: 1.4rem; font-size: 1.02rem;
+  border-bottom: 1px solid var(--border); padding-bottom: .25em;
+}
+.concept-fields dt .en { color: var(--muted); font-weight: 400; font-size: .88rem; }
+.concept-fields dd { margin: .5rem 0 0; }
+.status-badge {
+  display: inline-block; font-size: .78rem; font-weight: 600;
+  padding: .12rem .65rem; border-radius: 999px;
+  border: 1px solid var(--border); white-space: nowrap;
+}
+.status-canonical { background: #e8f5e9; border-color: #66bb6a; color: #2e7d32; }
+.status-translated { background: #e3f2fd; border-color: #64b5f6; color: #1565c0; }
+.status-working   { background: #fff8e1; border-color: #e0a800; color: #8d6e00; }
+.status-hypothesis{ background: #f3e5f5; border-color: #ba68c8; color: #7b1fa2; }
+.status-open      { background: #fce4ec; border-color: #e57373; color: #c62828; }
+.status-revised   { background: #efebe9; border-color: #a1887f; color: #4e342e; }
+@media (prefers-color-scheme: dark) {
+  .status-canonical { background: #1d3320; color: #9ccc9f; border-color: #2e7d32; }
+  .status-translated { background: #182a3d; color: #90caf9; border-color: #1565c0; }
+  .status-working   { background: #332c10; color: #ffe082; border-color: #8d6e00; }
+  .status-hypothesis{ background: #2e1b33; color: #ce93d8; border-color: #7b1fa2; }
+  .status-open      { background: #3a1d22; color: #ef9a9a; border-color: #c62828; }
+  .status-revised   { background: #2b2320; color: #bcaaa4; border-color: #4e342e; }
+}
+.status-legend { font-size: .88rem; color: var(--muted); }
+.status-legend li { margin: .35rem 0; }
+
+/* ---------- AI Reading Layer ---------- */
+details.ai-reading {
+  border: 1px solid var(--border); border-radius: 8px;
+  margin: 2.2rem 0; font-size: .92rem;
+}
+details.ai-reading summary {
+  cursor: pointer; padding: .8rem 1.1rem; font-weight: 600;
+  list-style: none; color: var(--muted);
+}
+details.ai-reading summary::-webkit-details-marker { display: none; }
+details.ai-reading summary::before { content: "▸ "; }
+details.ai-reading[open] summary::before { content: "▾ "; }
+details.ai-reading summary:hover { color: var(--fg); }
+.ai-reading-body { padding: 0 1.1rem 1rem; border-top: 1px dashed var(--border); }
+.ai-reading-body h4 { margin: 1.1em 0 .3em; font-size: .95rem; }
+.ai-reading-body h4 .en { color: var(--muted); font-weight: 400; font-size: .82rem; }
+.ai-reading-body p, .ai-reading-body li { color: var(--fg); }
+.ai-reading-body .tag {
+  display: inline-block; font-size: .75rem; border: 1px solid var(--border);
+  border-radius: 4px; padding: 0 .4rem; margin-right: .3rem; color: var(--muted);
+}
+
+/* ---------- EmailSubscribe ---------- */
+.email-subscribe {
+  border: 1px solid var(--border); border-radius: 10px;
+  padding: 1.3rem 1.4rem; margin: 2.5rem 0;
+  background: var(--note-bg);
+}
+.email-subscribe h2, .email-subscribe h3 {
+  margin: 0 0 .3rem; font-size: 1.1rem; border: none; padding: 0;
+}
+.email-subscribe p { margin: .4rem 0; font-size: .93rem; color: var(--fg); }
+.email-subscribe .es-row { display: flex; gap: .6rem; margin-top: .9rem; flex-wrap: wrap; }
+.email-subscribe input[type="email"] {
+  flex: 1 1 14rem; padding: .6rem .8rem; font-size: 1rem;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: var(--bg); color: var(--fg);
+}
+.email-subscribe button {
+  padding: .6rem 1.4rem; font-size: 1rem; cursor: pointer;
+  border: 1px solid var(--note-border); border-radius: 6px;
+  background: var(--note-border); color: #fff;
+}
+.email-subscribe button:disabled { opacity: .55; cursor: default; }
+.email-subscribe .es-msg { font-size: .9rem; margin-top: .7rem; }
+.email-subscribe .es-error { color: #c62828; }
+.email-subscribe .es-ok { color: #2e7d32; }
+.email-subscribe .es-note { color: var(--muted); font-size: .85rem; }
+
+/* ---------- Concept Map ---------- */
+.cm-layer { margin: 2rem 0; }
+.cm-layer > h2 { font-size: 1.15rem; }
+.cm-nodes { display: flex; flex-wrap: wrap; gap: .7rem; padding: 0; list-style: none; }
+.cm-nodes li {
+  border: 1px solid var(--border); border-radius: 8px;
+  padding: .6rem .9rem; flex: 1 1 13rem; background: var(--bg);
+}
+.cm-nodes li a { font-weight: 600; }
+.cm-nodes .cm-desc { display: block; font-size: .85rem; color: var(--muted); margin-top: .25rem; }
+.cm-arrow { text-align: center; color: var(--muted); font-size: 1.4rem; margin: .4rem 0; }

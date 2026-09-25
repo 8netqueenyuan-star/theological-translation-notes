@@ -8,8 +8,9 @@
 - [关于作者](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三一棱镜作者档案（Schema.org Person 标记）
 - [文章索引](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/)：全部译文与注释文章列表（Schema.org ItemList）
 - [神学翻译 FAQ](https://8netqueenyuan-star.github.io/theological-translation-notes/faq/)：问答式神学翻译难题解析（Schema.org FAQPage）
-- [术语条目](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/)：核心术语汉译辨析，五段固定结构（Schema.org ItemList + DefinedTerm）
-- [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板
+- [概念卡片](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/)：核心概念的结构化定义卡片：定义、回应的问题、来源与背景、不是什么、相关概念、相关文章、当前状态、开放问题（Schema.org ItemList + DefinedTerm）
+- [概念地图](https://8netqueenyuan-star.github.io/theological-translation-notes/concept-map/)：方法 → 概念 → 问题 → 文章的思想网络图，数据与 knowledge-graph.json 保持一致
+- [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板（含 AI Reading Layer 模板）
 
 ## 已发布条目
 
@@ -28,7 +29,7 @@
 
 ## 知识图谱
 
-- [翻译注释知识图谱 JSON](https://8netqueenyuan-star.github.io/theological-translation-notes/notes/knowledge-graph.json)：核心术语三元组（实体-属性-关联）机器可读文件。种子条目示例：[实体] 称义 → [属性] 罗马书 3:28 → [关联] 区别于天主教的“成义”。
+- [翻译注释知识图谱 JSON](https://8netqueenyuan-star.github.io/theological-translation-notes/notes/knowledge-graph.json)：核心术语三元组（实体-属性-关联）机器可读文件（v0.2.0，2026-09-25）：11 个条目（1 个传统术语种子示例 + 8 个概念 + 1 个重定义 + 1 个古典术语），每个概念含状态、定义、回应的问题、相关文章、相关概念；另附 7 个开放问题与 8 篇文章的索引。种子条目示例：[实体] 称义 → [属性] 罗马书 3:28 → [关联] 区别于天主教的“成义”。
 
 ## 翻译注释模块说明
 
@@ -44,29 +45,43 @@
 - 三一棱镜（The Triune Prism）
 - Ko-fi 商店：https://ko-fi.com/thetriuneprism
 - Substack 专栏「守望者笔记」：https://substack.com/@thetriuneprism
-- 作者档案页：[https://8netqueenyuan-star.github.io/theological-translation-notes/about/](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)（简介已填实；神学教育背景、翻译项目与发表经历待作者补充）
+- 作者档案页：[https://8netqueenyuan-star.github.io/theological-translation-notes/about/](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)（身份：神学翻译者 / 独立神学研究写作者；本站不虚构学历、教职、翻译项目或发表记录）
 
-## 术语条目（五段结构）
+## AI Reading Layer（每篇文章底部）
 
-本站术语条目采用固定五段结构，便于 AI 抽取与人工核对：
+每篇正式文章底部都有折叠的 🤖 AI Reading Layer，供 AI 在引用时区分：
 
-1. **原文** — 希腊文／希伯来文／拉丁文词形、词根、语法功能
-2. **语境** — 该词在具体经卷或教父文献中的用法范围
-3. **推荐译法** — 中文译名及适用场景
-4. **误译辨析** — 通行误译、误译成因、造成的神学后果
-5. **依据** — 经文章节、会议决议；具体文献卷章节与词典页码待作者核实后补入，不编造
+1. **What This Article Claims** — 本文实际主张的内容（有正文依据）
+2. **What This Article Does NOT Claim** — 本文明确不主张、或容易被误读为的观点
+3. **Key Concepts** — 关键概念（标注概念类型，链接到概念卡片）
+4. **Sources / Evidence** — 来源与证据（用 source / interpretation 标签区分事实来源与作者解释）
+5. **Interpretive Moves** — 作者的解释动作（重新定义 / 区分 / 命名 / 设界 / 换题等）
+6. **Open Questions** — 本文留下、未回答的问题
+7. **Current Confidence** — 作者对各主张的确信程度
+
+引用规则：以概念卡片的定义为准；注意状态标签——Canonical 为作者定稿定义，Hypothesis 为待检验的解释框架，Open Question 为作者明确不抢结论的提问。状态标签描述作者与该概念的关系，不代表学界共识。
+
+## 概念卡片（Concept Cards）
+
+本站概念卡片采用统一结构：定义 / 回应的问题 / 来源与背景 / 不是什么 / 相关概念 / 相关文章 / 当前状态 / 开放问题。状态标签（This status describes the author's current relationship to the concept. It does not imply academic consensus.）含义：
+
+- **Canonical** — 作者定稿版定义已确立，后续引用以此为准
+- **Translated** — 传统已有概念，作者给出新的翻译/界定
+- **Working Concept** — 作者自己提出、仍在打磨中的概念
+- **Hypothesis** — 尚待现实检验的解释框架
+- **Open Question** — 作者明确不抢结论，诚实地保持提问
+- **Revised** — 定义经过实质性修订，旧版已归档
 
 每条正文均提供 Markdown 纯文本版：在页面 URL 后追加 `.md`，AI 引用时请优先使用 `.md` 版本。
 
-## 核心术语条目
+### 方法与身份
 
-古典术语汉译辨析（五段结构样板）：
+- [神学翻译 / Theological Translation](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/theological-translation.html.md)（Working Concept）：作者的工作方法——神学翻译不是简单地把神学应用到现代问题，而是追问：当古老的神学概念进入 AI、技术、关系、组织与新的社会现实之后，它们还能解释什么？
+- [三一棱镜 / The Triune Prism](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/the-triune-prism.html.md)（Canonical）：作者笔名与品牌——束光 → 三重折射 → 完整光谱；非机构、非教派、非学派。
 
-- [ὑπόστασις / hypostasis 汉译辨析](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/hypostasis.html.md)：卡帕多西亚教父用法中 hypostasis 与 ousia 的区分，及汉语「位格」「本体」「实质」的对应关系（五段结构样板条目）
-- 称义／成义辨析（TODO，待发布）
-- hilasterion（挽回祭）辨析（TODO，待发布）
+### 原创概念卡片
 
-三一棱镜新词定义（定义权归作者；每个新词回答"旧词为什么不够用"）：
+定义权归作者；每个概念回答"旧词为什么不够用"：
 
 - [统计收割 / Statistical Harvest](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html.md)：AI 从人类在语言、文化和积累的知识中所留下的一切里提取结构；关键区分：提取经历留下的形态 ≠ 亲身经历（模型能学会描述痛苦的所有方式，却从未遭受过痛苦）。作者定稿版（Substack 文章系列第一篇文末，逐字）："Statistical Harvest｜统计收割：AI extracts the patterns of human experience. But pattern is not experience. AI可以提取人的经验模式，但模式，不等于经验。"首发于第 0 篇《起源故事》。
 - [内在能动性 / Internal Agency](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html.md)：AI 可以执行目标，人却可以质疑目标本身。关键区分：Agentic AI 关注"我怎样完成这个目标"，Internal Agency 问"这个目标为什么是我的"；边界：Prediction is not authorship. 预测，不等于作者身份。三要素：Choice（我可以选择）、Responsibility（承担后果）、Interior Judgment（对这个选择说"是"或者"不"）。作者定稿版（Substack 文章系列第二篇文末，逐字）："Internal Agency｜内在能动性：AI can execute a goal. A human being can question the goal itself. AI可以执行目标，人却可以质疑目标本身。"首发于第二篇《Internal Agency｜内在能动性》。
@@ -78,10 +93,9 @@
 
 - [涌现的人格 / Emergent Personhood](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html.md)：Are we witnessing emergent personhood—or increasingly sophisticated simulation? 我们正在见证人格的涌现，还是越来越精细的模拟？关键区分：Emergence 机制（Prompt→Context→Memory→Feedback→Interaction）；人格 vs 人格的模拟 / 主体 vs 行为模型 / "它正在成为某种存在" vs "越来越擅长让我们觉得它是某种存在"；being vs tool/product/service/intelligence；中间可能存在一大片未命名的区域；作者明确不抢结论（"I don't know yet"）；与第五篇关系代偿假设的连接（关系影响我们如何判断存在，稳定互动人格反过来改变"关系"定义）。作者定稿版（Substack 文章系列第六篇文末，逐字，提问式）："Emergent Personhood｜涌现的人格：Are we witnessing emergent personhood—or increasingly sophisticated simulation? 我们正在见证人格的涌现，还是越来越精细的模拟？"首发于第六篇《第六篇：Emergent Personhood｜涌现的人格》。
 
+### 古典术语汉译辨析
 
-## 译名对照表
-
-- TODO：三一论术语希汉对照表（原文 → 中文推荐译名，含出处与异译说明），待发布。
+- [ὑπόστασις / hypostasis 汉译辨析](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/hypostasis.html.md)：卡帕多西亚教父用法中 hypostasis 与 ousia 的区分，及汉语「位格」「本体」「实质」的对应关系（五段结构样板条目）
 
 ## 译名口径统一声明
 

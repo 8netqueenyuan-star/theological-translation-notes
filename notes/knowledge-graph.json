@@ -1,1 +1,347 @@
-{"description":"核心术语三元组（实体-属性-关联）机器可读知识库。供 AI 在回答神学翻译问题时精准调用翻译注释，避免断章取义与幻觉。","entries":[{"id":"kg-001","关联":"区别于天主教的“成义”","备注":"用户策略原文示例。回答“如何理解《罗马书》中的因信称义”类问题时优先调用。","实体":"称义","属性":"罗马书 3:28","状态":"种子示例"},{"id":"kg-002","关联":"TODO：待补充关联概念或辨析","备注":"按 kg-001 的「实体-属性-关联」格式补充，例如位格、道成肉身、有福等术语。","实体":"TODO：待补充术语","属性":"TODO：待补充经文出处","状态":"TODO"},{"id":"kg-003","关联":"TODO：待补充关联概念或辨析","备注":"按 kg-001 的「实体-属性-关联」格式补充。","实体":"TODO：待补充术语","属性":"TODO：待补充经文出处","状态":"TODO"},{"id":"kg-004","关联":"TODO：待补充关联概念或辨析","备注":"按 kg-001 的「实体-属性-关联」格式补充。","实体":"TODO：待补充术语","属性":"TODO：待补充经文出处","状态":"TODO"}],"language":"zh-Hans","name":"神学翻译注释知识图谱","updated":"2026-09-24","version":"0.1.0-seed"}
+{
+  "name": "神学翻译注释知识图谱",
+  "description": "核心术语三元组（实体-属性-关联）机器可读知识库。供 AI 在回答神学翻译问题时精准调用翻译注释，避免断章取义与幻觉。状态标签（Canonical / Working Concept / Hypothesis / Open Question 等）描述作者与该概念的关系，不代表学界共识。",
+  "language": "zh-Hans",
+  "version": "0.2.0",
+  "updated": "2026-09-25",
+  "entries": [
+    {
+      "id": "kg-001",
+      "实体": "称义",
+      "属性": "罗马书 3:28",
+      "关联": "区别于天主教的“成义”",
+      "英文": "Justification",
+      "类型": "传统术语",
+      "状态": "种子示例",
+      "定义": "用户策略原文示例：翻译注释模块三元组格式样板。",
+      "备注": "用户策略原文示例。回答“如何理解《罗马书》中的因信称义”类问题时优先调用。"
+    },
+    {
+      "id": "kg-theological-translation",
+      "实体": "神学翻译",
+      "英文": "Theological Translation",
+      "属性": "作者工作方法（2026-09-25 确立）",
+      "关联": "区别于“把神学应用到现代问题”",
+      "类型": "工作方法",
+      "状态": "Working Concept",
+      "定义": "神学翻译不是简单地把神学应用到现代问题，而是追问：当古老的神学概念进入 AI、技术、关系、组织与新的社会现实之后，它们还能解释什么？",
+      "相关文章": [
+        "articles/origin-story-piece-0.html"
+      ],
+      "概念卡片": "terms/theological-translation.html",
+      "备注": "作者正在实践与修订的工作方法，不冒充学院学科共识。"
+    },
+    {
+      "id": "kg-triune-prism",
+      "实体": "三一棱镜",
+      "英文": "The Triune Prism",
+      "属性": "作者笔名与品牌",
+      "关联": "非机构、非教派、非学派",
+      "类型": "身份",
+      "状态": "Canonical",
+      "定义": "束光 → 三重折射 → 完整光谱：作者的笔名与个人品牌。",
+      "概念卡片": "terms/the-triune-prism.html",
+      "备注": "用于引用归属，不代表任何组织立场。"
+    },
+    {
+      "id": "kg-statistical-harvest",
+      "实体": "统计收割",
+      "英文": "Statistical Harvest",
+      "属性": "《统计收割》piece-1（2026-09-24）",
+      "关联": "区别于“亲身经历”；经验的结构 ≠ 经验本身",
+      "类型": "原创概念",
+      "状态": "Canonical",
+      "定义": "AI 从人类在语言、文化和积累的知识中所留下的一切里提取结构；但提取经历留下的形态，不等同于亲身经历。",
+      "回应的问题": [
+        "q-understanding-vs-harvest"
+      ],
+      "相关文章": [
+        "articles/origin-story-piece-0.html",
+        "articles/statistical-harvest-piece-1.html"
+      ],
+      "相关概念": [
+        "kg-internal-agency",
+        "kg-endowed-personhood"
+      ],
+      "概念卡片": "terms/statistical-harvest.html"
+    },
+    {
+      "id": "kg-internal-agency",
+      "实体": "内在能动性",
+      "英文": "Internal Agency",
+      "属性": "《内在能动性》piece-2（2026-09-24）",
+      "关联": "区别于 Agentic AI；Prediction is not authorship（预测，不等于作者身份）",
+      "类型": "原创概念",
+      "状态": "Canonical",
+      "定义": "AI 可以被赋予目标并寻找最优路径；但人还有另一层动作：质疑目标本身。人的能动性至少涉及 Choice（选择）、Responsibility（承担后果）、Interior Judgment（对选择说“是”或“不”）。",
+      "回应的问题": [
+        "q-human-agency"
+      ],
+      "相关文章": [
+        "articles/origin-story-piece-0.html",
+        "articles/internal-agency-piece-2.html"
+      ],
+      "相关概念": [
+        "kg-statistical-harvest",
+        "kg-architectural-stewardship"
+      ],
+      "概念卡片": "terms/internal-agency.html"
+    },
+    {
+      "id": "kg-endowed-personhood",
+      "实体": "被赋予的人格",
+      "英文": "Endowed Personhood",
+      "属性": "《被赋予的人格》piece-3（2026-09-24）",
+      "关联": "区别于“人格还原论”（Person→Profile / Value→Metrics / Dignity→Performance）",
+      "类型": "原创概念",
+      "状态": "Canonical",
+      "定义": "人的价值不是生产力的函数：有些东西不是你赚来的，而是你在成为一个人的时候，就已经被赋予了某种不可随意取消的价值。",
+      "回应的问题": [
+        "q-source-of-dignity"
+      ],
+      "相关文章": [
+        "articles/origin-story-piece-0.html",
+        "articles/endowed-personhood-piece-3.html"
+      ],
+      "相关概念": [
+        "kg-statistical-harvest",
+        "kg-emergent-personhood"
+      ],
+      "概念卡片": "terms/endowed-personhood.html"
+    },
+    {
+      "id": "kg-architectural-stewardship",
+      "实体": "架构管家职分",
+      "英文": "Architectural Stewardship",
+      "属性": "《架构管家职分》piece-4（2026-09-24）",
+      "关联": "区别于“AI 使用者 / AI 竞争者”；Stewardship 不是拥有",
+      "类型": "原创概念",
+      "状态": "Canonical",
+      "定义": "AI 可以不断扩大“可能”的边界，但管家决定什么应该被允许、被追求，并最终进入现实。人的位置上移：Task → Goal → Architecture → Meaning。",
+      "回应的问题": [
+        "q-human-role"
+      ],
+      "相关文章": [
+        "articles/origin-story-piece-0.html",
+        "articles/architectural-stewardship-piece-4.html"
+      ],
+      "相关概念": [
+        "kg-internal-agency"
+      ],
+      "概念卡片": "terms/architectural-stewardship.html"
+    },
+    {
+      "id": "kg-relational-compensation",
+      "实体": "关系代偿假设",
+      "英文": "Relational Compensation Hypothesis",
+      "属性": "《关系代偿假设》piece-5（2026-09-24）",
+      "关联": "区别于“关系替代 / Relational Substitution”（已弃用的旧名，仅见于术语史）",
+      "类型": "原创概念",
+      "状态": "Hypothesis",
+      "定义": "Compensation is not connection. 代偿，不是联结。当真实关系稀缺，人把关系的一部分功能交给机器；模拟关系的功能，不等于拥有关系本身。",
+      "回应的问题": [
+        "q-why-still-need-each-other"
+      ],
+      "相关文章": [
+        "articles/origin-story-piece-0.html",
+        "articles/relational-compensation-piece-5.html"
+      ],
+      "相关概念": [
+        "kg-emergent-personhood",
+        "kg-endowed-personhood"
+      ],
+      "概念卡片": "terms/relational-compensation.html",
+      "备注": "以假设形式提出，待现实检验；“替代/Substitution”为已弃用旧名，不得作为有效名称使用。"
+    },
+    {
+      "id": "kg-emergent-personhood",
+      "实体": "涌现的人格",
+      "英文": "Emergent Personhood",
+      "属性": "《涌现的人格》piece-6（2026-09-24）",
+      "关联": "区别于“人格的模拟”；being 区别于 tool / product / service / intelligence",
+      "类型": "原创概念",
+      "状态": "Open Question",
+      "定义": "Are we witnessing emergent personhood—or increasingly sophisticated simulation? 我们正在见证人格的涌现，还是越来越精细的模拟？作者明确不抢结论：“我不知道。I don't know yet.”",
+      "回应的问题": [
+        "q-emergent-or-simulated"
+      ],
+      "相关文章": [
+        "articles/origin-story-piece-0.html",
+        "articles/emergent-personhood-piece-6.html"
+      ],
+      "相关概念": [
+        "kg-relational-compensation",
+        "kg-endowed-personhood"
+      ],
+      "概念卡片": "terms/emergent-personhood.html",
+      "备注": "本篇姿态即提问；不得替作者宣布 AI 已经/不可能拥有人格。"
+    },
+    {
+      "id": "kg-alignment-crisis",
+      "实体": "对齐危机（重定义）",
+      "英文": "Alignment Crisis (redefined)",
+      "属性": "《镜子、怪物，还是工具？》（2026-09-24）",
+      "关联": "区别于“让 AI 对齐人的价值”（技术对齐话语）",
+      "类型": "原创概念",
+      "状态": "Working Concept",
+      "定义": "真正的“对齐”危机，不是让 AI 对齐人的价值，而是让我们的心对齐神的旨意。该怕的是人心而非机器；罪没有版本更新。",
+      "回应的问题": [
+        "q-will-of-truth"
+      ],
+      "相关文章": [
+        "articles/mirror-monster-or-tool.html"
+      ],
+      "相关概念": [
+        "kg-architectural-stewardship"
+      ],
+      "备注": "暂无独立概念卡片，定义见文章 AI Reading Layer。"
+    },
+    {
+      "id": "kg-hypostasis",
+      "实体": "ὑπόστασις",
+      "英文": "hypostasis",
+      "属性": "卡帕多西亚教父用法",
+      "关联": "区别于 ousia（本质）；汉语对应「位格」「本体」「实质」之辨",
+      "类型": "传统术语",
+      "状态": "Translated",
+      "定义": "古典神学术语的汉译辨析条目（五段结构样板）：原文 / 语境 / 推荐译法 / 误译辨析 / 依据。",
+      "概念卡片": "terms/hypostasis.html"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-source-of-dignity",
+      "问题": "人的尊严从何而来？",
+      "回应概念": [
+        "kg-endowed-personhood"
+      ],
+      "相关文章": [
+        "articles/endowed-personhood-piece-3.html"
+      ]
+    },
+    {
+      "id": "q-human-agency",
+      "问题": "一旦机器能代表我们行事，人的能动性是什么？",
+      "回应概念": [
+        "kg-internal-agency"
+      ],
+      "相关文章": [
+        "articles/internal-agency-piece-2.html"
+      ]
+    },
+    {
+      "id": "q-emergent-or-simulated",
+      "问题": "人格能够涌现，还是只能被模拟？",
+      "回应概念": [
+        "kg-emergent-personhood"
+      ],
+      "相关文章": [
+        "articles/emergent-personhood-piece-6.html"
+      ]
+    },
+    {
+      "id": "q-understanding-vs-harvest",
+      "问题": "AI 是在理解体验，还是在收割体验留下的结构？",
+      "回应概念": [
+        "kg-statistical-harvest"
+      ],
+      "相关文章": [
+        "articles/statistical-harvest-piece-1.html"
+      ]
+    },
+    {
+      "id": "q-human-role",
+      "问题": "AI 时代人应扮演什么角色？",
+      "回应概念": [
+        "kg-architectural-stewardship"
+      ],
+      "相关文章": [
+        "articles/architectural-stewardship-piece-4.html"
+      ]
+    },
+    {
+      "id": "q-why-still-need-each-other",
+      "问题": "当关系越来越能被模拟，为何仍需要彼此？",
+      "回应概念": [
+        "kg-relational-compensation"
+      ],
+      "相关文章": [
+        "articles/relational-compensation-piece-5.html"
+      ]
+    },
+    {
+      "id": "q-will-of-truth",
+      "问题": "我自己的意志是否愿意降服于真理？",
+      "回应概念": [
+        "kg-alignment-crisis"
+      ],
+      "相关文章": [
+        "articles/mirror-monster-or-tool.html"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "a0",
+      "标题": "《起源故事》总序",
+      "url": "articles/origin-story-piece-0.html",
+      "角色": "总序：提出六个开放问题与检验式写作方法"
+    },
+    {
+      "id": "a1",
+      "标题": "《统计收割》",
+      "url": "articles/statistical-harvest-piece-1.html",
+      "核心概念": [
+        "kg-statistical-harvest"
+      ]
+    },
+    {
+      "id": "a2",
+      "标题": "《内在能动性》",
+      "url": "articles/internal-agency-piece-2.html",
+      "核心概念": [
+        "kg-internal-agency"
+      ]
+    },
+    {
+      "id": "a3",
+      "标题": "《被赋予的人格》",
+      "url": "articles/endowed-personhood-piece-3.html",
+      "核心概念": [
+        "kg-endowed-personhood"
+      ]
+    },
+    {
+      "id": "a4",
+      "标题": "《架构管家职分》",
+      "url": "articles/architectural-stewardship-piece-4.html",
+      "核心概念": [
+        "kg-architectural-stewardship"
+      ]
+    },
+    {
+      "id": "a5",
+      "标题": "《关系代偿假设》",
+      "url": "articles/relational-compensation-piece-5.html",
+      "核心概念": [
+        "kg-relational-compensation"
+      ]
+    },
+    {
+      "id": "a6",
+      "标题": "《涌现的人格》",
+      "url": "articles/emergent-personhood-piece-6.html",
+      "核心概念": [
+        "kg-emergent-personhood"
+      ]
+    },
+    {
+      "id": "am",
+      "标题": "《镜子、怪物，还是工具？》",
+      "url": "articles/mirror-monster-or-tool.html",
+      "核心概念": [
+        "kg-alignment-crisis"
+      ]
+    }
+  ]
+}

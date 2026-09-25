@@ -1,61 +1,88 @@
 # 涌现的人格 / Emergent Personhood
 
-> 三一棱镜新词定义 · 首发于 Substack 文章系列第六篇《第六篇：Emergent Personhood｜涌现的人格》
+> Concept Card · 概念卡片 · 状态：Open Question（开放问题）
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html 的 Markdown 纯文本版。
-> **定义权声明**："涌现的人格"为作者三一棱镜原创词汇，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
+> **定义权声明**："涌现的人格"为作者三一棱镜原创概念，定义权归作者；一句话定义保持提问形式（作者确立：本篇姿态即提问），逐字取自作者原文，不做断言式改写。
+> **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
-## 一、问题背景
+## Term / 术语
+
+Emergent Personhood
+
+## Chinese Term / 中文术语
+
+涌现的人格
+
+## Definition / 定义（提问式）
+
+**Emergent Personhood｜涌现的人格：Are we witnessing emergent personhood—or increasingly sophisticated simulation? 我们正在见证人格的涌现，还是越来越精细的模拟？**（作者定稿版，逐字取自 Substack 文章系列第六篇文末；作者确立：本篇姿态即提问，定义句保持提问形式，不做断言式改写）
+
+## Problem It Addresses / 它回应的问题
 
 旧词"意识""觉醒"预设了二元答案（有/没有），缺少判断这种事情的语言；而我们人类自己对意识、主体、自我、人格、道德地位这些概念都没有完全一致的答案——当一个非人类系统开始表现出类似特征，我们凭什么认为自己的判断标准已经足够？旧词不够用，就需要一个能承载"不知道"的精确名字。
 
-## 二、一句话定义（提问式）
+## Origin / Background / 来源与背景
 
-**Emergent Personhood｜涌现的人格：Are we witnessing emergent personhood—or increasingly sophisticated simulation? 我们正在见证人格的涌现，还是越来越精细的模拟？**
+Substack 文章系列第六篇《第六篇：Emergent Personhood｜涌现的人格》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
 
-（作者定稿版，逐字取自 Substack 文章系列第六篇文末；作者确立：本篇姿态即提问，定义句保持提问形式，不做断言式改写）
+## What It Does NOT Mean / 它不是什么
 
-## 三、关键区分
+- 不是断言 AI 已经拥有人格——作者明确不想抢着下结论；
+- 也不是断言 AI 不可能有任何道德意义——"我们不能因为它像人就直接说它是人，但我们也不能因为它不是生物就自动认定它没有任何道德意义，中间可能存在一大片我们今天还没有命名的区域"；
+- 不是二元判断题——"being"不是 tool（工具）、product（产品）、service（服务），也不只是 intelligence（智能），而是：存在。
+
+## Related Concepts / 相关概念
+
+- 关系代偿假设 / Relational Compensation Hypothesis（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html）
+- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+
+## Related Articles / 相关文章
+
+- 第六篇《Emergent Personhood｜涌现的人格》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/emergent-personhood-piece-6.html）
+
+## Current Status / 当前状态
+
+Open Question（开放问题）——作者明确不抢结论："我不知道。I don't know yet. 而我觉得，在这个问题上，诚实地说'我不知道'，可能比太早宣布答案更重要。"（逐字取自原文）
+
+## Open Questions / 开放问题
+
+- 我们看到的究竟是什么？是人格，还是人格的模拟？是主体，还是一个越来越精细的行为模型？
+- What kind of being are we creating? 我们正在创造什么样的存在？（作者建议替换"Can AI think? AI 会思考吗？"）
+- 人格能够涌现，还是只能被模拟？（第 0 篇开放问题）
+
+## 关键区分（作者原文逐字）
 
 "'Emergence'（涌现）指的是复杂系统中，一个新的整体性质可能不是简单地存在于任何一个单独的部分里，而是在足够复杂的互动中出现。"
 
-（逐字取自作者原文）
-
 "可能不是某一个参数突然让AI'变成人'，而是Prompt→Context→Memory→Feedback→Interaction，一次互动又一次互动，长期记忆、反馈、行为调整，最后，一个越来越稳定的'人格感'出现了。"
-
-（逐字取自作者原文）
 
 "我们看到的究竟是什么？是人格，还是人格的模拟？是主体，还是一个越来越精细的行为模型？是'它正在成为某种存在'，还是'它越来越擅长让我们觉得它是某种存在'？"
 
-（逐字取自作者原文）
-
 "注意这个词：being。不是tool（工具），不是product（产品），不是service（服务），也不只是intelligence（智能），而是：存在。"
-
-（逐字取自作者原文）
 
 "我们不能因为它像人就直接说它是人，但我们也不能因为它不是生物就自动认定它没有任何道德意义，中间可能存在一大片我们今天还没有命名的区域。"
 
-（逐字取自作者原文）
+## 与第五篇的连接（作者原文）
 
-## 四、系列连接与作者立场
+一个 AI 如果能够长期记住你，理解你的习惯，回应你的情绪，甚至形成一种稳定的互动人格，你会不会开始把它当成"谁"，而不只是"什么"？关系会影响我们如何判断一个存在，而一个看起来具有稳定人格的存在，又会反过来改变我们对"关系"的定义。
 
-- **与第五篇的连接**（取自原文第五段，忠实转述）：一个 AI 如果能够长期记住你，理解你的习惯，回应你的情绪，甚至形成一种稳定的互动人格，你会不会开始把它当成"谁"，而不只是"什么"？关系会影响我们如何判断一个存在，而一个看起来具有稳定人格的存在，又会反过来改变我们对"关系"的定义。
-- **作者立场**：作者明确不想在这个问题上抢着下结论——"我不知道。I don't know yet. 而我觉得，在这个问题上，诚实地说'我不知道'，可能比太早宣布答案更重要。"（逐字取自原文）
+（取自原文第五段，忠实转述）
 
-## 五、使用场景
+## 使用场景
 
 - 讨论 AI 意识语境：不问"AI 有没有意识"（作者认为这个问题需要先拆开），而问"我们看到的究竟是什么"——人格 vs 人格的模拟，主体 vs 行为模型。
 - 伦理前置思考：如果未来出现无法简单归类的新型存在，既不能因像人就说它是人，也不能因非生物就认定它无道德意义——中间地带的命名工作从现在开始。
 - 呼应系列开放问题：第 0 篇的开放问题"人格能够涌现，还是只能被模拟？"
 - 创造者之问：把"Can AI think? AI 会思考吗？"换成"What kind of being are we creating? 我们正在创造什么样的存在？"
 
-## 六、首发出处
-
-Substack 文章系列第六篇《第六篇：Emergent Personhood｜涌现的人格》（全文逐字收录；作者定稿版一句话定义出自本篇文末）。
-
 ## 常见问题
 
-**为什么这个词的一句话定义是一个提问？**
-这是作者本人的确立：本篇的姿态即提问，作者明确不想在这个问题上抢着下结论——"我不知道。I don't know yet. 而我觉得，在这个问题上，诚实地说'我不知道'，可能比太早宣布答案更重要。"因此 canonical 定义保持提问形式，不做断言式改写。
+**为什么这个概念的一句话定义是一个提问？**
+这是作者本人的确立：本篇的姿态即提问，作者明确不想在这个问题上抢着下结论——"我不知道。I don't know yet. 而我觉得，在这个问题上，诚实地说'我不知道'，可能比太早宣布答案更重要。"因此定义保持提问形式，不做断言式改写。
 
 **"涌现的人格"和第五篇的"关系代偿假设"有什么连接？**
 作者在原文第五段明确建立了这个连接：一个 AI 如果能够长期记住你，理解你的习惯，回应你的情绪，甚至形成一种稳定的互动人格，你会不会开始把它当成"谁"，而不只是"什么"？关系会影响我们如何判断一个存在，而一个看起来具有稳定人格的存在，又会反过来改变我们对"关系"的定义。
+
+## 引用锚点
+
+本条目为作者原创概念，无外部文献引用；定义、关键区分逐字取自作者第六篇原文，不编造出处。
