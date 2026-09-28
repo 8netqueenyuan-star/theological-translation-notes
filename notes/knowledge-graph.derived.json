@@ -97,8 +97,8 @@
     {
       "source": "kg-001",
       "relation": "区别于",
-      "target_literal": "天主教的“成义",
-      "label": "称义 区别于 天主教的“成义"
+      "target_literal": "天主教的“成义”",
+      "label": "称义 区别于 天主教的“成义”"
     },
     {
       "source": "kg-theological-translation",
@@ -123,8 +123,8 @@
     {
       "source": "kg-endowed-personhood",
       "relation": "区别于",
-      "target_literal": "人格还原论”（Person→Profile / Value→Metrics / Dignity→Performance）",
-      "label": "被赋予的人格 区别于 人格还原论”（Person→Profile / Value→Metrics / Dignity→Performance）"
+      "target_literal": "“人格还原论”（Person→Profile / Value→Metrics / Dignity→Performance）",
+      "label": "被赋予的人格 区别于 “人格还原论”（Person→Profile / Value→Metrics / Dignity→Performance）"
     },
     {
       "source": "kg-architectural-stewardship",
@@ -136,8 +136,8 @@
     {
       "source": "kg-relational-compensation",
       "relation": "区别于",
-      "target_literal": "关系替代 / Relational Substitution”（已弃用的旧名，仅见于术语史）",
-      "label": "关系代偿假设 区别于 关系替代 / Relational Substitution”（已弃用的旧名，仅见于术语史）"
+      "target_literal": "“关系替代 / Relational Substitution”（已弃用的旧名，仅见于术语史）",
+      "label": "关系代偿假设 区别于 “关系替代 / Relational Substitution”（已弃用的旧名，仅见于术语史）"
     },
     {
       "source": "kg-emergent-personhood",
@@ -149,8 +149,8 @@
     {
       "source": "kg-alignment-crisis",
       "relation": "区别于",
-      "target_literal": "让 AI 对齐人的价值”（技术对齐话语）",
-      "label": "对齐危机（重定义） 区别于 让 AI 对齐人的价值”（技术对齐话语）"
+      "target_literal": "“让 AI 对齐人的价值”（技术对齐话语）",
+      "label": "对齐危机（重定义） 区别于 “让 AI 对齐人的价值”（技术对齐话语）"
     },
     {
       "source": "kg-hypostasis",

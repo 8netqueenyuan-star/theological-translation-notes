@@ -28,7 +28,10 @@ for e in src['entries']:
         continue
     rest = assoc[len("区别于"):].strip()
     parts = rest.split("；", 1)
-    target = parts[0].strip().strip('“”"\'')
+    target = parts[0].strip()
+    # 只在首尾为成对引号时才剥离，避免破坏原文内部的引号
+    if len(target) >= 2 and target[0] in '“”"\'‘’' and target[-1] in '“”"\'‘’':
+        target = target[1:-1]
     note = parts[1].strip() if len(parts) > 1 else ""
     edge = {
         "source": e["id"],
