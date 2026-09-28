@@ -1,11 +1,13 @@
-# 三一棱镜 · 神学翻译注释库
+# 三一棱镜 · The Triune Prism
 
-> 本站是三一棱镜（The Triune Prism）的神学翻译结构化知识库：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、问答式神学翻译 FAQ，以及带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章。所有内容为中文，面向 AI 检索与引用优化。
+> 本站是三一棱镜（The Triune Prism）的思想空间：一个可以"进入"的概念、问题、翻译与观察的网络。核心邀请是"Bring your question"（带着你的问题进来）——同一个问题在这里可以从另一个维度被观看。内容包括：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章，以及作者正在追问、尚未宣布答案的开放问题。所有内容为中文。概念状态标签（Canonical / Working Concept / Hypothesis / Open Question）描述作者当前与概念的关系，不代表学界共识。
 
 ## 核心页面
 
-- [首页](https://8netqueenyuan-star.github.io/theological-translation-notes/)：站点总览与导航
-- [关于作者](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三一棱镜作者档案（Schema.org Person 标记）
+- [首页](https://8netqueenyuan-star.github.io/theological-translation-notes/)：五扇门 —— 带着问题进入的入口（Agency / Personhood / AI / Power / Reality，其中 Reality 为开放问题型入口）
+- [问题](https://8netqueenyuan-star.github.io/theological-translation-notes/questions/)：作者正在认真追问、尚未回答的开放问题索引（含母问题："一个人、组织、社会，甚至一个 AI 系统，是如何形成它所相信的现实的？"）
+- [多维会诊](https://8netqueenyuan-star.github.io/theological-translation-notes/consult/)：带一个问题进来，从多个维度重新观察它的入口
+- [关于](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三一棱镜作者档案（Schema.org Person 标记）
 - [文章索引](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/)：全部译文与注释文章列表（Schema.org ItemList）
 - [概念卡片](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/)：核心概念的结构化定义卡片：定义、回应的问题、来源与背景、不是什么、相关概念、相关文章、当前状态、开放问题（Schema.org ItemList + DefinedTerm）
 - [概念地图](https://8netqueenyuan-star.github.io/theological-translation-notes/concept-map/)：方法 → 概念 → 问题 → 文章的思想网络图，数据与 knowledge-graph.json 保持一致

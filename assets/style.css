@@ -1,29 +1,31 @@
 /* 极简样式：浅色/深色自适应，移动端友好，无框架 */
 :root {
   color-scheme: light dark;
-  --bg: #ffffff;
-  --fg: #1c1c1e;
-  --muted: #6e6e73;
-  --accent: #0a58ca;
-  --border: #d9d9de;
-  --note-bg: #f2f6ff;
-  --note-border: #0a58ca;
-  --todo-bg: #fff8e1;
-  --todo-border: #e0a800;
-  --code-bg: #f4f4f6;
+  --bg: #faf6ee;
+  --fg: #2b2620;
+  --muted: #7d7261;
+  --accent: #3d6b4f;
+  --border: #e3d9c4;
+  --note-bg: #f3ecdc;
+  --note-border: #3d6b4f;
+  --todo-bg: #fbf3df;
+  --todo-border: #c49a3f;
+  --code-bg: #f1eadd;
+  --gold: #a8842c;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #121214;
-    --fg: #e9e9ec;
-    --muted: #a1a1a6;
-    --accent: #7aa7ff;
-    --border: #3a3a3e;
-    --note-bg: #182234;
-    --note-border: #7aa7ff;
+    --bg: #171410;
+    --fg: #ece4d4;
+    --muted: #a89b84;
+    --accent: #93c49c;
+    --border: #38302a;
+    --note-bg: #1f1b14;
+    --note-border: #93c49c;
     --todo-bg: #2e2707;
-    --todo-border: #e0a800;
-    --code-bg: #1e1e22;
+    --todo-border: #c49a3f;
+    --code-bg: #221d16;
+    --gold: #c9a45c;
   }
 }
 * { box-sizing: border-box; }
@@ -197,3 +199,79 @@ details.ai-reading summary:hover { color: var(--fg); }
 .cm-nodes li a { font-weight: 600; }
 .cm-nodes .cm-desc { display: block; font-size: .85rem; color: var(--muted); margin-top: .25rem; }
 .cm-arrow { text-align: center; color: var(--muted); font-size: 1.4rem; margin: .4rem 0; }
+
+/* ---- Triune Prism: doors & quiet world ---- */
+.hero { margin: 0 0 2.5rem; }
+.hero img {
+  display: block; width: 100%; height: auto;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+.hero-caption {
+  margin-top: .9rem;
+  font-size: 1.05rem;
+}
+.hero h1 {
+  font-size: 2rem; margin: 0 0 .4em; line-height: 1.3;
+  border: none;
+}
+.hero .lede { font-size: 1.08rem; }
+.hero .lede-en { color: var(--muted); font-size: .95rem; margin-top: .2em; }
+
+.doors { display: grid; gap: 1rem; margin: 1.5rem 0 2.5rem; }
+@media (min-width: 44rem) { .doors { grid-template-columns: 1fr 1fr; } }
+.door {
+  display: block; padding: 1.1rem 1.2rem;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: var(--note-bg);
+  color: var(--fg);
+}
+.door:hover { text-decoration: none; border-color: var(--accent); }
+.door .door-q { font-size: 1.02rem; margin: 0 0 .5em; line-height: 1.6; }
+.door .door-to { font-size: .88rem; color: var(--muted); }
+.door .door-to strong { color: var(--accent); font-weight: 600; }
+.door-type {
+  display: inline-block; font-size: .72rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--muted);
+  border: 1px solid var(--border); border-radius: 999px;
+  padding: .1em .7em; margin-bottom: .7em;
+}
+.door-open {
+  background: transparent;
+  border-style: dashed; border-color: var(--gold);
+}
+.door-open .door-type { color: var(--gold); border-color: var(--gold); }
+.doors-note { color: var(--muted); font-size: .92rem; margin: -1rem 0 2.5rem; }
+
+.method { list-style: none; padding: 0; margin: 1rem 0 2.5rem; }
+.method li { padding: .45rem 0; border-bottom: 1px dotted var(--border); font-size: .95rem; }
+.method li:last-child { border-bottom: none; }
+.method .step { color: var(--gold); font-weight: 600; letter-spacing: .04em; margin-right: .6em; font-size: .85rem; }
+
+.entrances { display: grid; gap: .8rem; margin: 1rem 0 2rem; }
+@media (min-width: 44rem) { .entrances { grid-template-columns: 1fr 1fr; } }
+.entrance {
+  display: block; padding: .9rem 1.1rem;
+  border: 1px solid var(--border); border-radius: 6px; color: var(--fg);
+}
+.entrance:hover { text-decoration: none; border-color: var(--accent); }
+.entrance .e-title { font-weight: 600; }
+.entrance .e-desc { font-size: .88rem; color: var(--muted); }
+
+.machine-quiet { font-size: .8rem; color: var(--muted); }
+.machine-quiet a { color: var(--muted); }
+
+.question-list { list-style: none; padding: 0; margin: 1.5rem 0; }
+.question-list li {
+  padding: 1.1rem 0; border-bottom: 1px solid var(--border);
+}
+.question-list .q-text { font-size: 1.05rem; margin: 0 0 .4em; }
+.question-list .q-meta { font-size: .85rem; color: var(--muted); }
+.question-list .q-meta a { color: var(--muted); }
+.featured-q {
+  border: 1px dashed var(--gold); border-radius: 6px;
+  padding: 1.2rem 1.3rem; margin: 1.5rem 0;
+  background: var(--note-bg);
+}
+.featured-q .q-text { font-size: 1.12rem; }
+.revision-note { font-size: .82rem; color: var(--muted); border-top: 1px dotted var(--border); margin-top: 2.5rem; padding-top: .8rem; }

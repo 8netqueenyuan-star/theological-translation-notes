@@ -2,8 +2,8 @@
   "name": "神学翻译注释知识图谱",
   "description": "核心术语三元组（实体-属性-关联）机器可读知识库。供 AI 在回答神学翻译问题时精准调用翻译注释，避免断章取义与幻觉。状态标签（Canonical / Working Concept / Hypothesis / Open Question 等）描述作者与该概念的关系，不代表学界共识。",
   "language": "zh-Hans",
-  "version": "0.2.0",
-  "updated": "2026-09-25",
+  "version": "0.2.1",
+  "updated": "2026-09-28",
   "entries": [
     {
       "id": "kg-001",
@@ -209,6 +209,17 @@
     }
   ],
   "questions": [
+    {
+      "id": "q-reality-formation",
+      "问题": "一个人、组织、社会，甚至一个 AI 系统，是如何形成它所相信的现实的？",
+      "回应概念": [],
+      "相关文章": [
+        "articles/architectural-stewardship-piece-4.html",
+        "articles/statistical-harvest-piece-1.html"
+      ],
+      "状态": "母问题",
+      "备注": "整个三一棱镜背后的母问题；暂无对应概念卡 —— 不是缺东西，而是故意没有被定义完（type: open-question）。"
+    },
     {
       "id": "q-source-of-dignity",
       "问题": "人的尊严从何而来？",
