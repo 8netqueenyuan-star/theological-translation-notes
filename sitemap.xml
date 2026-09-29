@@ -112,9 +112,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://8netqueenyuan-star.github.io/theological-translation-notes/observations/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://8netqueenyuan-star.github.io/theological-translation-notes/questions/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://8netqueenyuan-star.github.io/theological-translation-notes/translations/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://8netqueenyuan-star.github.io/theological-translation-notes/consult/</loc>

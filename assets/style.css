@@ -52,6 +52,21 @@ nav.site-nav {
   font-size: .95rem;
 }
 nav.site-nav a { white-space: nowrap; }
+/* 锁定导航：Bring a Question 是独立入口，不是第六个阶段 */
+.site-nav .nav-cta {
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: .1em .75em;
+}
+.site-nav .nav-cta:hover { background: var(--accent); color: #fff; text-decoration: none; }
+/* 分区眉题：EXPLORE THE FIELD / BRING YOUR QUESTION */
+.eyebrow {
+  margin: 0 0 .4rem;
+  font-size: .8rem;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
 footer.site-footer {
   margin-top: 3rem; padding-top: 1rem;
   border-top: 1px solid var(--border);

@@ -15,16 +15,18 @@ TYPE: site-index (verbatim)
 
 # 三一棱镜 · The Triune Prism
 
-> 本站是三一棱镜（The Triune Prism）的思想空间：一个可以"进入"的概念、问题、翻译与观察的网络。核心邀请是"Bring your question"（带着你的问题进来）——同一个问题在这里可以从另一个维度被观看。内容包括：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章，以及作者正在追问、尚未宣布答案的开放问题。所有内容为中文。概念状态标签（Canonical / Working Concept / Hypothesis / Open Question）描述作者当前与概念的关系，不代表学界共识。
+> 本站是三一棱镜（The Triune Prism）的思想空间：一个持续生长中的神学翻译、概念与问题空间（A living body of theological translations, concepts, and questions）。核心邀请是"Bring your question"（带着你的问题进来）——同一个问题在这里可以从另一个维度被观看。Prism 不替用户下结论，它帮助用户看见原来没有看见的维度；最终的判断属于用户。内容包括：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章，以及作者正在追问、尚未宣布答案的开放问题。所有内容为中文。概念状态标签（Canonical / Working Concept / Hypothesis / Open Question）描述作者当前与概念的关系，不代表学界共识。
 
-## 核心页面
+## 核心页面（导航顺序已锁定）
 
-- [首页](https://8netqueenyuan-star.github.io/theological-translation-notes/)：五扇门 —— 带着问题进入的入口（Agency / Personhood / AI / Power / Reality，其中 Reality 为开放问题型入口）
-- [问题](https://8netqueenyuan-star.github.io/theological-translation-notes/questions/)：作者正在认真追问、尚未回答的开放问题索引（含母问题："一个人、组织、社会，甚至一个 AI 系统，是如何形成它所相信的现实的？"）
-- [多维会诊](https://8netqueenyuan-star.github.io/theological-translation-notes/consult/)：带一个问题进来，从多个维度重新观察它的入口
+- [首页](https://8netqueenyuan-star.github.io/theological-translation-notes/)：入口 —— 带着问题进来（五扇门：Agency / Personhood / AI / Power / Reality，其中 Reality 为开放问题型入口；另有 Start anywhere 轻入口）
+- [Observations｜观察](https://8netqueenyuan-star.github.io/theological-translation-notes/observations/)：现实正在发生什么？记录现象、变化、弱信号和值得注意的现实材料；不把观察直接包装成结论（Reality → What is happening?）
+- [Questions｜开放提问](https://8netqueenyuan-star.github.io/theological-translation-notes/questions/)：作者正在认真追问、尚未回答的开放问题索引（含母问题："一个人、组织、社会，甚至一个 AI 系统，是如何形成它所相信的现实的？"；Observation → Question）
+- [Translations｜翻译](https://8netqueenyuan-star.github.io/theological-translation-notes/translations/)：Theological Translation（天言翻译）的核心区域 —— 古老的神学语言、圣经概念、属灵逻辑，与 AI、技术、组织、关系、权力、社会现实的翻译现场（Question → Translation）
+- [Concepts｜概念](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/)：核心概念的结构化定义卡片：定义、回应的问题、来源与背景、不是什么、相关概念、相关文章、当前状态、开放问题（Translation → Concept；Schema.org ItemList + DefinedTerm）
+- [Essays｜长文](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/)：长篇观察、研究与论述 —— 经过沉淀的完整表达（Concept / Investigation → Expression；Schema.org ItemList）
+- [Bring a Question｜带一个问题进来](https://8netqueenyuan-star.github.io/theological-translation-notes/consult/)：独立入口（不是第六个思想阶段）—— 把一个问题带进棱镜（Bring your question into the Prism），从多个维度重新观察它；不包装成咨询服务/专家问诊，Prism 不替用户下结论
 - [关于](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三一棱镜作者档案（Schema.org Person 标记）
-- [文章索引](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/)：全部译文与注释文章列表（Schema.org ItemList）
-- [概念卡片](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/)：核心概念的结构化定义卡片：定义、回应的问题、来源与背景、不是什么、相关概念、相关文章、当前状态、开放问题（Schema.org ItemList + DefinedTerm）
 - [概念地图](https://8netqueenyuan-star.github.io/theological-translation-notes/concept-map/)：方法 → 概念 → 问题 → 文章的思想网络图，数据与 knowledge-graph.json 保持一致
 - [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板（含 AI Reading Layer 模板）
 
