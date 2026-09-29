@@ -1,7 +1,7 @@
 ================================================================================
 THE TRIUNE PRISM · llms-full.txt
 全站 Markdown 源码集中合集（机械生成，请勿手工编辑）
-Generated: 2026-09-28 | Generator: notes/gen_llms_full.py
+Generated: 2026-09-29 | Generator: notes/gen_llms_full.py
 Regenerate: python3 notes/gen_llms_full.py
 Source of truth: 各 SOURCE 标注的原始文件；本文件为派生视图。
 ================================================================================
@@ -92,7 +92,7 @@ TYPE: site-index (verbatim)
 
 ### 方法与身份
 
-- [神学翻译 / Theological Translation](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/theological-translation.html.md)（Working Concept）：作者的工作方法——神学翻译不是简单地把神学应用到现代问题，而是追问：当古老的神学概念进入 AI、技术、关系、组织与新的社会现实之后，它们还能解释什么？
+- [神学翻译 / Theological Translation](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/theological-translation.html.md)（Working Concept）：作者的工作方法——神学翻译：Some questions cannot be answered from a single angle. 当古老的超验逻辑与当代技术、AI、关系及现实结构相遇，我们如何重新定义价值与能动性（Agency）？
 - [三一棱镜 / The Triune Prism](https://8netqueenyuan-star.github.io/theological-translation-notes/terms/the-triune-prism.html.md)（Canonical）：作者笔名与品牌——束光 → 三重折射 → 完整光谱；非机构、非教派、非学派。
 
 ### 原创概念卡片
@@ -1233,7 +1233,7 @@ Theological Translation
 
 ## Definition / 定义
 
-**神学翻译不是简单地把神学应用到现代问题，而是追问：当古老的神学概念进入 AI、技术、关系、组织与新的社会现实之后，它们还能解释什么？**
+**Some questions cannot be answered from a single angle. 当古老的超验逻辑与当代技术、AI、关系及现实结构相遇，我们如何重新定义价值与能动性（Agency）？**
 
 Theological translation is not simply applying theology to modern problems. It asks what happens when ancient theological concepts encounter AI, technology, relationships, institutions, and emerging forms of reality.
 

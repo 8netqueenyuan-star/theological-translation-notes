@@ -14,7 +14,7 @@ Theological Translation
 
 ## Definition / 定义
 
-**神学翻译不是简单地把神学应用到现代问题，而是追问：当古老的神学概念进入 AI、技术、关系、组织与新的社会现实之后，它们还能解释什么？**
+**Some questions cannot be answered from a single angle. 当古老的超验逻辑与当代技术、AI、关系及现实结构相遇，我们如何重新定义价值与能动性（Agency）？**
 
 Theological translation is not simply applying theology to modern problems. It asks what happens when ancient theological concepts encounter AI, technology, relationships, institutions, and emerging forms of reality.
 
