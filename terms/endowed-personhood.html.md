@@ -1,6 +1,27 @@
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Endowed Personhood"
+chinese_term: "被赋予的人格"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "grounds"
+  - name: "Emergent Personhood"
+    chinese_name: "涌现的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    relation: "related"
+---
+
 # 被赋予的人格 / Endowed Personhood
 
-> Concept Card · 概念卡片 · 状态：Canonical（已确立）
+> Concept Card · 概念卡片 · 状态：Hypothesis（假设，尚待现实检验）
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html 的 Markdown 纯文本版。
 > **定义权声明**："被赋予的人格"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
@@ -44,7 +65,7 @@ Substack 文章系列第三篇《Endowed Personhood｜被赋予的人格》（�
 
 ## Current Status / 当前状态
 
-Canonical（已确立）——作者定稿版定义已确立（第三篇文末），后续文章以此为准引用。
+Hypothesis（假设）——尚待现实检验的解释框架；此状态仅描述作者当前与该概念的关系，不代表学界共识。
 
 ## Open Questions / 开放问题
 

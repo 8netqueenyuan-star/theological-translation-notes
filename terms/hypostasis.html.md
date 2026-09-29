@@ -1,3 +1,15 @@
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "hypostasis"
+chinese_term: "ὑπόστασις 汉译辨析"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts: []
+---
+
 # ὑπόστασις / hypostasis 汉译辨析
 
 > 术语条目 · 五段结构样板 · 作者：三一棱镜（The Triune Prism）

@@ -138,6 +138,23 @@ TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
 
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Architectural Stewardship"
+chinese_term: "架构管家职分"
+status: "Canonical"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "related"
+---
+
 # 架构管家职分 / Architectural Stewardship
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）
@@ -225,6 +242,27 @@ URL: https://8netqueenyuan-star.github.io/theological-translation-notes/terms/em
 TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
+
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Emergent Personhood"
+chinese_term: "涌现的人格"
+status: "Open"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Relational Compensation Hypothesis"
+    chinese_name: "关系代偿假设"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html"
+    relation: "related"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
+---
 
 # 涌现的人格 / Emergent Personhood
 
@@ -324,9 +362,30 @@ TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
 
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Endowed Personhood"
+chinese_term: "被赋予的人格"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "grounds"
+  - name: "Emergent Personhood"
+    chinese_name: "涌现的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    relation: "related"
+---
+
 # 被赋予的人格 / Endowed Personhood
 
-> Concept Card · 概念卡片 · 状态：Canonical（已确立）
+> Concept Card · 概念卡片 · 状态：Hypothesis（假设，尚待现实检验）
 > 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html 的 Markdown 纯文本版。
 > **定义权声明**："被赋予的人格"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
@@ -370,7 +429,7 @@ Substack 文章系列第三篇《Endowed Personhood｜被赋予的人格》（�
 
 ## Current Status / 当前状态
 
-Canonical（已确立）——作者定稿版定义已确立（第三篇文末），后续文章以此为准引用。
+Hypothesis（假设）——尚待现实检验的解释框架；此状态仅描述作者当前与该概念的关系，不代表学界共识。
 
 ## Open Questions / 开放问题
 
@@ -409,6 +468,27 @@ URL: https://8netqueenyuan-star.github.io/theological-translation-notes/terms/fi
 TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
+
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "First-Person Witness"
+chinese_term: "第一人称见证"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Steward's Refusal"
+    chinese_name: "管家的否决"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html"
+    relation: "related"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
+---
 
 # 第一人称见证 / First-Person Witness
 
@@ -494,6 +574,18 @@ TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
 
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "hypostasis"
+chinese_term: "ὑπόστασις 汉译辨析"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts: []
+---
+
 # ὑπόστασις / hypostasis 汉译辨析
 
 > 术语条目 · 五段结构样板 · 作者：三一棱镜（The Triune Prism）
@@ -562,6 +654,19 @@ URL: https://8netqueenyuan-star.github.io/theological-translation-notes/terms/in
 TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
+
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Inner Access"
+chinese_term: "内在准入权"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts: []
+---
 
 # Inner Access / 内在准入权
 
@@ -667,28 +772,33 @@ TYPE: concept-card (.md source, verbatim)
 term: "Internal Agency"
 chinese_term: "内在能动性"
 status: "Canonical"
-# relation 受控词表：
-#   contrast —— 对立/解药：本概念是对方的对立面或解药
-#   prerequisite —— 前提：本概念是对方成立的前提
-#   complement —— 互补：两者互补，共同构成完整图景
-#   extends —— 延伸：本概念延伸/发展了对方
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
 related_concepts:
   - name: "Statistical Harvest"
     chinese_name: "统计收割"
     url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
-    relation: "contrast"
-    relation_note: "内在能动性是统计收割的解药"
+    relation: "related"
   - name: "Architectural Stewardship"
     chinese_name: "架构管家职分"
     url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
-    relation: "prerequisite"
-    relation_note: "守住'质疑目标'的判断权，是架构管家的前提"
+    relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
     url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
-    # relation 待作者指定（不虚构关系类型）
-    relation_note: "Imago Dei 最需要保护的是人的主体性"
+    relation: "grounded_by"
+  - name: "Steward's Refusal"
+    chinese_name: "管家的否决"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html"
+    relation: "exercised_in"
+  - name: "Automation Bias"
+    chinese_name: "自动化偏见"
+    relation: "hindered_by"
 ---
+
 
 # 内在能动性 / Internal Agency
 
@@ -784,6 +894,23 @@ URL: https://8netqueenyuan-star.github.io/theological-translation-notes/terms/re
 TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
+
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Relational Compensation Hypothesis"
+chinese_term: "关系代偿假设"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Emergent Personhood"
+    chinese_name: "涌现的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    relation: "related"
+---
 
 # 关系代偿假设 / Relational Compensation Hypothesis
 
@@ -884,6 +1011,30 @@ TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
 
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Steward's Refusal"
+chinese_term: "管家的否决"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "exercises"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
+  - name: "Automation Bias"
+    chinese_name: "自动化偏见"
+    relation: "hindered_by"
+---
+
 # 管家的否决 | Steward's Refusal
 
 > Not the "right of first refusal" in contracts, not a patient's right to decline, and not sovereign refusal as a political stance. Here, the steward refuses because he has been entrusted, and answers to the one who entrusted him.
@@ -982,6 +1133,19 @@ URL: https://8netqueenyuan-star.github.io/theological-translation-notes/terms/se
 TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
+
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "SEED-Vessel-HARVEST"
+chinese_term: "种子-器皿-收成"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts: []
+---
 
 # SEED-Vessel-HARVEST / 种子-器皿-收成
 
@@ -1112,6 +1276,19 @@ TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
 
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Statistical Harvest"
+chinese_term: "统计收割"
+status: "Canonical"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts: []
+---
+
 # 统计收割 / Statistical Harvest
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）
@@ -1197,6 +1374,23 @@ TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
 
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "The Triune Prism"
+chinese_term: "三一棱镜"
+status: "Canonical"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Theological Translation"
+    chinese_name: "神学翻译"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/theological-translation.html"
+    relation: "related"
+---
+
 # 三一棱镜 / The Triune Prism
 
 > Concept Card · 概念卡片（作者身份） · 状态：Canonical（已确立）
@@ -1259,6 +1453,43 @@ URL: https://8netqueenyuan-star.github.io/theological-translation-notes/terms/th
 TYPE: concept-card (.md source, verbatim)
 ================================================================================
 
+
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Theological Translation"
+chinese_term: "神学翻译"
+status: "Working"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Statistical Harvest"
+    chinese_name: "统计收割"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
+    relation: "related"
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "related"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
+  - name: "Architectural Stewardship"
+    chinese_name: "架构管家职分"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    relation: "related"
+  - name: "Relational Compensation Hypothesis"
+    chinese_name: "关系代偿假设"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html"
+    relation: "related"
+  - name: "Emergent Personhood"
+    chinese_name: "涌现的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    relation: "related"
+---
 
 # 神学翻译 / Theological Translation
 

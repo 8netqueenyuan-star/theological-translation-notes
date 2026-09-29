@@ -1,3 +1,20 @@
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Architectural Stewardship"
+chinese_term: "架构管家职分"
+status: "Canonical"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "related"
+---
+
 # 架构管家职分 / Architectural Stewardship
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）

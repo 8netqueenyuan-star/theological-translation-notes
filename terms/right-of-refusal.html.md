@@ -1,3 +1,27 @@
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Steward's Refusal"
+chinese_term: "管家的否决"
+status: "Hypothesis"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "exercises"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
+  - name: "Automation Bias"
+    chinese_name: "自动化偏见"
+    relation: "hindered_by"
+---
+
 # 管家的否决 | Steward's Refusal
 
 > Not the "right of first refusal" in contracts, not a patient's right to decline, and not sovereign refusal as a political stance. Here, the steward refuses because he has been entrusted, and answers to the one who entrusted him.

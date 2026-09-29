@@ -3,28 +3,33 @@
 term: "Internal Agency"
 chinese_term: "内在能动性"
 status: "Canonical"
-# relation 受控词表：
-#   contrast —— 对立/解药：本概念是对方的对立面或解药
-#   prerequisite —— 前提：本概念是对方成立的前提
-#   complement —— 互补：两者互补，共同构成完整图景
-#   extends —— 延伸：本概念延伸/发展了对方
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
 related_concepts:
   - name: "Statistical Harvest"
     chinese_name: "统计收割"
     url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
-    relation: "contrast"
-    relation_note: "内在能动性是统计收割的解药"
+    relation: "related"
   - name: "Architectural Stewardship"
     chinese_name: "架构管家职分"
     url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
-    relation: "prerequisite"
-    relation_note: "守住'质疑目标'的判断权，是架构管家的前提"
+    relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
     url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
-    # relation 待作者指定（不虚构关系类型）
-    relation_note: "Imago Dei 最需要保护的是人的主体性"
+    relation: "grounded_by"
+  - name: "Steward's Refusal"
+    chinese_name: "管家的否决"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html"
+    relation: "exercised_in"
+  - name: "Automation Bias"
+    chinese_name: "自动化偏见"
+    relation: "hindered_by"
 ---
+
 
 # 内在能动性 / Internal Agency
 

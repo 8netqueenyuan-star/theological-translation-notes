@@ -1,3 +1,24 @@
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Emergent Personhood"
+chinese_term: "涌现的人格"
+status: "Open"
+# relation 受控词表（带方向；relation 描述"本卡 → 对方"的关系）：
+#   grounds / grounded_by —— A grounds B：A 是 B 的根基
+#   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
+#   hinders / hindered_by —— A hinders B：A 妨碍 B
+#   related —— 默认：相关，类型待作者指定（不虚构关系类型）
+related_concepts:
+  - name: "Relational Compensation Hypothesis"
+    chinese_name: "关系代偿假设"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html"
+    relation: "related"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
+---
+
 # 涌现的人格 / Emergent Personhood
 
 > Concept Card · 概念卡片 · 状态：Open Question（开放问题）
