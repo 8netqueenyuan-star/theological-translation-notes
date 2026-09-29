@@ -1,3 +1,31 @@
+---
+# 概念卡结构化元数据（机器可读；正文定义以下方 Markdown 为准）
+term: "Internal Agency"
+chinese_term: "内在能动性"
+status: "Canonical"
+# relation 受控词表：
+#   contrast —— 对立/解药：本概念是对方的对立面或解药
+#   prerequisite —— 前提：本概念是对方成立的前提
+#   complement —— 互补：两者互补，共同构成完整图景
+#   extends —— 延伸：本概念延伸/发展了对方
+related_concepts:
+  - name: "Statistical Harvest"
+    chinese_name: "统计收割"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
+    relation: "contrast"
+    relation_note: "内在能动性是统计收割的解药"
+  - name: "Architectural Stewardship"
+    chinese_name: "架构管家职分"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    relation: "prerequisite"
+    relation_note: "守住'质疑目标'的判断权，是架构管家的前提"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    # relation 待作者指定（不虚构关系类型）
+    relation_note: "Imago Dei 最需要保护的是人的主体性"
+---
+
 # 内在能动性 / Internal Agency
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）
@@ -29,6 +57,7 @@ Substack 文章系列第二篇《Internal Agency｜内在能动性》（全文�
 
 - 不是 Agentic AI——Agentic AI 关注的是"我怎样完成这个目标"，而 Internal Agency 问的是"这个目标为什么是我的"；
 - 不是"会行动就等于有人性"——"预测我会怎么选择"和"这个选择由我承担"仍然不是一回事：**Prediction is not authorship. 预测，不等于作者身份。**
+- 注意：这里说的"内在能动性"，不是AI研究中"系统内部自主行动"的含义。它特指人能够质疑AI给出的目标，而不是执行它。
 
 ## Related Concepts / 相关概念
 

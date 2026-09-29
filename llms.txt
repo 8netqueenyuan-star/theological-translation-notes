@@ -1,4 +1,6 @@
-# 三一棱镜 · The Triune Prism
+# The Triune Prism
+
+> A growing language for theology, technology, and human agency.
 
 > 本站是三一棱镜（The Triune Prism）的思想空间：一个持续生长中的神学翻译、概念与问题空间（A living body of theological translations, concepts, and questions）。核心邀请是"Bring your question"（带着你的问题进来）——同一个问题在这里可以从另一个维度被观看。Prism 不替用户下结论，它帮助用户看见原来没有看见的维度；最终的判断属于用户。内容包括：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章，以及作者正在追问、尚未宣布答案的开放问题。所有内容为中文。概念状态标签（Canonical / Working Concept / Hypothesis / Open Question）描述作者当前与概念的关系，不代表学界共识。
 
