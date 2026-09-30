@@ -69,6 +69,24 @@ AI 是在理解体验，还是在收割体验留下的结构？（第 0 篇开�
 
 收割的是结构，不是体验。混淆二者，就会把"机器能描述痛苦"误读为"机器理解痛苦"。
 
+## 延伸 / Extension:语义重量 · Semantic Weight
+
+> 状态：Hypothesis（假设）——本延伸为作者的后续翻译工具，尚在打磨，不属于上方 Canonical 定义。
+
+一句话的语义重量，指它背后有多少可追溯的承担：谁说的、在什么处境里说的、愿不愿意为它交账。统计收割取走的是语言的结构，取不走这份承担。
+
+*Semantic weight is how much accountable commitment stands behind a statement: who said it, in what situation, and whether they will answer for it. Statistical harvest extracts the structure of language; it cannot extract that commitment.*
+
+### 尚未回答 / Open Questions
+
+- 一句话有没有语义重量，能不能追溯到一个为它负责的人？（换一个作者，它还成立吗？）
+- 创作者用 AI 校验逻辑、提炼语义，是增强自己的重量，还是把定义权让给了算法？
+
+### 相关概念
+
+- 管家的否决 / Steward's Refusal（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html）
+- 第一人称见证 / First-Person Witness（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/first-person-witness.html）
+
 ## 使用场景
 
 - 讨论 AI 工作原理时：用"统计收割"替代"学习""理解"，避免把亲历性悄悄塞给机器。
