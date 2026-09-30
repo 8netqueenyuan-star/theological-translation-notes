@@ -1,0 +1,262 @@
+/* 三一棱镜 · 会诊前导聊天挂件样式
+ * 暖纸色调，与主站 assets/style.css 的配色变量对齐：
+ *   --bg #faf6ee / --fg #2b2620 / --muted #7d7261
+ *   --accent #3d6b4f / --border #e3d9c4
+ * 所有类名均以 prism- 开头，避免与主站样式冲突。
+ */
+
+.prism-chat-root {
+  --prism-bg: #faf6ee;
+  --prism-fg: #2b2620;
+  --prism-muted: #7d7261;
+  --prism-accent: #3d6b4f;
+  --prism-accent-dark: #2f5540;
+  --prism-border: #e3d9c4;
+  --prism-user-bg: #3d6b4f;
+  --prism-shadow: 0 8px 28px rgba(43, 38, 32, 0.18);
+  position: fixed;
+  z-index: 9999;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--prism-fg);
+}
+
+/* 右下角浮动气泡 */
+.prism-bubble {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  border: 1px solid var(--prism-border);
+  background: var(--prism-bg);
+  color: var(--prism-accent);
+  cursor: pointer;
+  box-shadow: var(--prism-shadow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  transition: transform 0.18s ease, background 0.18s ease;
+}
+.prism-bubble:hover { transform: scale(1.06); }
+.prism-bubble.prism-open { background: var(--prism-accent); color: var(--prism-bg); }
+
+/* 聊天面板 */
+.prism-panel {
+  position: fixed;
+  right: 20px;
+  bottom: 88px;
+  width: min(380px, calc(100vw - 40px));
+  height: min(560px, calc(100dvh - 130px));
+  min-height: 380px;
+  background: var(--prism-bg);
+  border: 1px solid var(--prism-border);
+  border-radius: 14px;
+  box-shadow: var(--prism-shadow);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.prism-panel[hidden] { display: none; }
+
+/* 头部：标题 + 诚实身份声明 */
+.prism-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 12px 14px 10px;
+  border-bottom: 1px solid var(--prism-border);
+  background: var(--prism-bg);
+  flex-shrink: 0;
+}
+.prism-title {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+.prism-identity {
+  font-size: 11.5px;
+  color: var(--prism-muted);
+  margin-top: 2px;
+}
+.prism-close {
+  border: none;
+  background: none;
+  font-size: 22px;
+  line-height: 1;
+  color: var(--prism-muted);
+  cursor: pointer;
+  padding: 2px 6px;
+}
+.prism-close:hover { color: var(--prism-fg); }
+
+/* 消息区 */
+.prism-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  -webkit-overflow-scrolling: touch;
+}
+.prism-msg {
+  max-width: 88%;
+  padding: 9px 12px;
+  border-radius: 12px;
+  word-break: break-word;
+  white-space: normal;
+}
+.prism-msg-user {
+  align-self: flex-end;
+  background: var(--prism-user-bg);
+  color: #faf6ee;
+  border-bottom-right-radius: 4px;
+}
+.prism-msg-model {
+  align-self: flex-start;
+  background: #f3ecdc;
+  border: 1px solid var(--prism-border);
+  border-bottom-left-radius: 4px;
+}
+
+/* 思考中… */
+.prism-typing span {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 4px;
+  border-radius: 50%;
+  background: var(--prism-muted);
+  animation: prism-blink 1.2s infinite;
+}
+.prism-typing span:nth-child(2) { animation-delay: 0.2s; }
+.prism-typing span:nth-child(3) { animation-delay: 0.4s; margin-right: 0; }
+@keyframes prism-blink {
+  0%, 60%, 100% { opacity: 0.25; }
+  30% { opacity: 1; }
+}
+
+/* 邮箱收集卡 */
+.prism-email-card { max-width: 94%; }
+.prism-email-label {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.prism-email-row { display: flex; gap: 8px; }
+.prism-email-input {
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--prism-border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 13.5px;
+  background: var(--prism-bg);
+  color: var(--prism-fg);
+}
+.prism-email-input:focus {
+  outline: 2px solid var(--prism-accent);
+  outline-offset: -1px;
+}
+.prism-email-btn {
+  border: none;
+  border-radius: 8px;
+  background: var(--prism-accent);
+  color: #faf6ee;
+  padding: 8px 14px;
+  font-size: 13.5px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.prism-email-btn:hover { background: var(--prism-accent-dark); }
+.prism-email-btn:disabled { opacity: 0.6; cursor: default; }
+.prism-email-err {
+  color: #a33b2e;
+  font-size: 12.5px;
+  margin-top: 6px;
+}
+.prism-privacy {
+  font-size: 11.5px;
+  color: var(--prism-muted);
+  margin-top: 8px;
+}
+
+/* 订阅成功后的 intake 入口 */
+.prism-subscribed { margin-bottom: 10px; }
+.prism-intake-btn {
+  display: inline-block;
+  background: var(--prism-accent);
+  color: #faf6ee;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 9px 16px;
+  font-size: 13.5px;
+}
+.prism-intake-btn:hover { background: var(--prism-accent-dark); color: #faf6ee; }
+
+/* 底部输入行 */
+.prism-input-row {
+  display: flex;
+  gap: 8px;
+  padding: 10px 12px 12px;
+  border-top: 1px solid var(--prism-border);
+  background: var(--prism-bg);
+  flex-shrink: 0;
+}
+.prism-input {
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--prism-border);
+  border-radius: 20px;
+  padding: 9px 14px;
+  font-size: 14px;
+  background: #fffdf8;
+  color: var(--prism-fg);
+}
+.prism-input:focus {
+  outline: 2px solid var(--prism-accent);
+  outline-offset: -1px;
+}
+.prism-input:disabled { opacity: 0.6; }
+.prism-send {
+  border: none;
+  border-radius: 20px;
+  background: var(--prism-accent);
+  color: #faf6ee;
+  padding: 9px 18px;
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.prism-send:hover { background: var(--prism-accent-dark); }
+
+/* 底部隐私小字 */
+.prism-sensitive {
+  font-size: 11px;
+  color: var(--prism-muted);
+  text-align: center;
+  padding: 0 12px 8px;
+  background: var(--prism-bg);
+  flex-shrink: 0;
+}
+
+/* 移动端：底部通栏面板 */
+@media (max-width: 480px) {
+  .prism-bubble { right: 16px; bottom: 16px; }
+  .prism-panel {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: min(72dvh, 560px);
+    border-radius: 16px 16px 0 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+  }
+}
