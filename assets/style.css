@@ -358,3 +358,33 @@ details.ai-reading summary:hover { color: var(--fg); }
 }
 .featured-q .q-text { font-size: 1.12rem; }
 .revision-note { font-size: .82rem; color: var(--muted); border-top: 1px dotted var(--border); margin-top: 2.5rem; padding-top: .8rem; }
+
+/* 思想生长路径 · Growth cycle */
+.growth-cycle { margin: 1.5rem 0 1rem; position: relative; }
+.growth-cycle::before {
+  content: ""; position: absolute; inset: 6% 10%;
+  background: radial-gradient(closest-side, rgba(200,164,92,.13), transparent 70%);
+  pointer-events: none;
+}
+.growth-cycle svg { width: 100%; height: auto; display: block; position: relative; }
+.cycle-ring { fill: none; stroke: var(--gold); stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 2 10; opacity: .55; }
+.cycle-return { fill: none; stroke: var(--gold); stroke-width: 2.5; opacity: .9; }
+.cycle-halo-ring { fill: none; stroke: var(--border); stroke-width: 1; opacity: .9; }
+.cycle-center-zh { font-size: 26px; fill: var(--fg); text-anchor: middle; }
+.cycle-center-en { font-size: 14px; fill: var(--muted); text-anchor: middle; letter-spacing: .14em; }
+.cycle-dot { fill: var(--bg); stroke: var(--gold); stroke-width: 2.5; }
+.cycle-dot-idle { fill: var(--bg); stroke: var(--muted); stroke-width: 2; stroke-dasharray: 4 3; }
+.cycle-label-en { font-size: 17px; font-weight: 600; fill: var(--fg); letter-spacing: .02em; }
+.cycle-label-zh { font-size: 15px; fill: var(--muted); }
+.cycle-link { cursor: pointer; }
+.cycle-link:hover .cycle-dot, .cycle-link:focus .cycle-dot { stroke: var(--accent); }
+.cycle-link:hover .cycle-label-en, .cycle-link:focus .cycle-label-en { fill: var(--accent); }
+.cycle-traveler { fill: var(--gold); filter: drop-shadow(0 0 6px var(--gold)); }
+.cycle-traveler-halo { fill: var(--gold); opacity: .16; }
+.cycle-fly { fill: var(--gold); opacity: .32; }
+.cycle-note { margin-top: 1rem; }
+.cycle-door { margin: 1.5rem auto 2.5rem; max-width: 26rem; }
+.cycle-door .door-outside { text-align: center; color: var(--muted); font-size: .82rem; letter-spacing: .2em; margin: 0 0 .8rem; }
+@media (prefers-reduced-motion: reduce) {
+  .cycle-traveler, .cycle-traveler-halo { display: none; }
+}
