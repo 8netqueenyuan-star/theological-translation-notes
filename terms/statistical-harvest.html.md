@@ -50,6 +50,10 @@ Substack 文章系列第 0 篇《起源故事》（总序，首发）；第一�
 
 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
 
+架构管家职分 / Architectural Stewardship（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html）
+
+被赋予的人格 / Endowed Personhood（早期曾用名：恩赐性人格；related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+
 ## Related Articles / 相关文章
 
 - 第 0 篇《起源故事》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/origin-story-piece-0.html）
@@ -62,6 +66,10 @@ Canonical（已确立）——作者定稿版定义已确立（第一篇文末�
 ## Open Questions / 开放问题
 
 AI 是在理解体验，还是在收割体验留下的结构？（第 0 篇开放问题）
+
+- 一句话有没有语义重量，能不能追溯到一个为它负责的人？（换一个作者，它还成立吗？）（Proposed · 拟增）
+- 创作者用 AI 来校验逻辑、提炼语义，这算是在增强自己的"重量"，还是在把定义权让渡给算法？（Proposed · 拟增）
+- 如果一个平台只奖励"已成功者"，语义重量在结构上还有生存空间吗？（Proposed · 拟增）
 
 ## 关键区分（作者原文逐字）
 
@@ -86,6 +94,28 @@ AI 是在理解体验，还是在收割体验留下的结构？（第 0 篇开�
 
 - 管家的否决 / Steward's Refusal（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html）
 - 第一人称见证 / First-Person Witness（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/first-person-witness.html）
+
+## 理论对位：与"数据殖民主义"的区别
+
+> 本段为编辑建议，待作者确认（Draft · 待确认）。
+
+Nick Couldry 和 Ulises Mejias 提出的 **data colonialism** 指出，数字平台正在将人类生活捕获并占有，这是殖民主义与资本主义将人类生活商品化的延续。统计收割与这一框架共享同一个问题域，但侧重点不同：数据殖民主义关注**数据的占有**——谁拥有这些数据，谁从中获利；统计收割关注**形式的提取**——AI 拿走的是经验留下的结构，留下的是无法被提取的承担。
+
+换句话说，数据殖民主义问的是"谁在收割"，统计收割问的是"收割走了什么，留下了什么"。
+
+## 被遮蔽的肉身：谁在使收割成为可能
+
+> 本段为编辑建议，待作者确认（Draft · 待确认）。
+
+"统计收割"的隐喻容易被读成算法在自主收割。但现实是，在算法能够提取模式之前，有大量数据标注工人在为自动驾驶系统逐帧标注图像、在识别准确率必须维持在 95% 以上的条件下工作。他们的劳动是统计收割在物理上得以发生的前提。卡片引入这一维度，不是为了转移焦点，而是为了提醒：**当我们将"收割"归因于算法时，我们可能正在重复数据殖民主义的遮蔽逻辑——让肉身劳动再次消失。**
+
+## 神学锚点
+
+> 本段为编辑建议，待作者确认（Draft · 待确认）。
+
+圣经里的重量是被衡量的。**但以理书 5:27**："你被称在天平里，显出你的亏缺。"衡量的不是自己称自己重，而是在天平上被衡量。
+
+正面的底座：**哥林多后书 4:17**——"极重无比的荣耀"（βάρος 与 δόξα 连用，呼应希伯来语 כָּבוֹד 的双关：重即是荣耀）。重量不是自己累积的，是**被赐予的**；痛苦是代价，不是资格。
 
 ## 使用场景
 
