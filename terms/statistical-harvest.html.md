@@ -85,11 +85,6 @@ AI 是在理解体验，还是在收割体验留下的结构？（第 0 篇开�
 
 *Semantic weight is how much accountable commitment stands behind a statement: who said it, in what situation, and whether they will answer for it. Statistical harvest extracts the structure of language; it cannot extract that commitment.*
 
-### 尚未回答 / Open Questions
-
-- 一句话有没有语义重量，能不能追溯到一个为它负责的人？（换一个作者，它还成立吗？）
-- 创作者用 AI 校验逻辑、提炼语义，是增强自己的重量，还是把定义权让给了算法？
-
 ### 相关概念
 
 - 管家的否决 / Steward's Refusal（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html）
