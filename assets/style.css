@@ -222,36 +222,39 @@ details.ai-reading summary:hover { color: var(--fg); }
 .cm-arrow { text-align: center; color: var(--muted); font-size: 1.4rem; margin: .4rem 0; }
 
 /* ---- Triune Prism: doors & quiet world ---- */
-.hero { margin: 0 0 2.5rem; }
-.hero img {
-  display: block; width: 100%; height: auto;
-  border-radius: 6px;
+/* 首屏 Hero：门 + 异常光作背景，暖纸罩纱保证可读；无发光、无渐变海报感 */
+.hero {
+  position: relative;
+  margin: 0 0 1rem;
+  border-radius: 8px;
+  overflow: hidden;
   border: 1px solid var(--border);
+  background: url("img/door-hero.jpg") center 38% / cover no-repeat, var(--note-bg);
+  min-height: 21rem;
+  display: flex;
+  align-items: flex-end;
 }
-.hero-caption {
-  margin-top: .9rem;
-  font-size: 1.05rem;
+.hero-veil {
+  position: absolute; inset: 0;
+  background: linear-gradient(to top,
+    color-mix(in srgb, var(--bg) 96%, transparent) 0%,
+    color-mix(in srgb, var(--bg) 62%, transparent) 52%,
+    color-mix(in srgb, var(--bg) 14%, transparent) 100%);
 }
+.hero-caption { position: relative; padding: 5rem 1.4rem 1.4rem; }
 .hero h1 {
-  font-size: 2rem; margin: 0 0 .4em; line-height: 1.3;
-  border: none;
+  font-size: 1.9rem; margin: 0 0 .35em; line-height: 1.3;
+  letter-spacing: .12em; border: none;
 }
-.hero .lede { font-size: 1.08rem; }
-.hero .lede-en { color: var(--muted); font-size: .95rem; margin-top: .2em; }
-/* Start anywhere：宣言下方的轻盈入口 */
-.start-anywhere { margin-top: 1.2rem; font-size: .95rem; color: var(--muted); }
-.sa-label { letter-spacing: .08em; margin-right: .5em; }
-.sa-chip {
-  display: inline-block;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: .18em .85em;
-  margin: .18em .12em;
-  font-size: .88rem;
-  color: var(--fg);
-  white-space: nowrap;
+.hero .lede-en { font-size: 1rem; color: var(--fg); margin: 0 0 .3em; }
+.hero .lede { font-size: 1.02rem; color: var(--muted); margin: 0; }
+/* 一句邀请：独立成段，留白 */
+.invitation {
+  text-align: center;
+  font-size: 1.45rem;
+  letter-spacing: .06em;
+  margin: 2.6rem 0 2.2rem;
 }
-.sa-chip:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
 
 .doors { display: grid; gap: 1rem; margin: 1.5rem 0 2.5rem; }
 @media (min-width: 44rem) { .doors { grid-template-columns: 1fr 1fr; } }
@@ -359,32 +362,44 @@ details.ai-reading summary:hover { color: var(--fg); }
 .featured-q .q-text { font-size: 1.12rem; }
 .revision-note { font-size: .82rem; color: var(--muted); border-top: 1px dotted var(--border); margin-top: 2.5rem; padding-top: .8rem; }
 
-/* 思想生长路径 · Growth cycle */
-.growth-cycle { margin: 1.5rem 0 1rem; position: relative; }
-.growth-cycle::before {
-  content: ""; position: absolute; inset: 6% 10%;
-  background: radial-gradient(closest-side, rgba(200,164,92,.13), transparent 70%);
-  pointer-events: none;
+/* 思想生长路径 · 有质感的循环地图（非流程图） */
+.growth-map { margin: 1rem 0 .5rem; overflow-x: auto; }
+.growth-map svg { display: block; width: 100%; min-width: 620px; height: auto; }
+.gm-path { fill: none; stroke: var(--gold); stroke-width: 2.5; stroke-linecap: round; opacity: .55; }
+.gm-return { fill: none; stroke: var(--gold); stroke-width: 2; stroke-dasharray: 7 6; stroke-linecap: round; opacity: .9; }
+.gm-node { fill: var(--gold); }
+.gm-node-hollow { fill: var(--bg); stroke: var(--gold); stroke-width: 2.5; }
+.gm-link { cursor: pointer; }
+.gm-link:hover .gm-node, .gm-link:focus .gm-node { fill: var(--accent); }
+.gm-link:hover .gm-node-hollow, .gm-link:focus .gm-node-hollow { stroke: var(--accent); }
+.gm-link:hover text, .gm-link:focus text { fill: var(--accent); }
+.gm-label-en { font-size: 15px; font-weight: 600; fill: var(--fg); }
+.gm-label-zh { font-size: 13.5px; fill: var(--muted); }
+.gm-return-label { font-size: 13px; fill: var(--muted); }
+.gm-speck { fill: var(--gold); opacity: .3; }
+.gm-traveler { fill: var(--accent); }
+.gm-traveler-halo { fill: var(--accent); opacity: .15; }
+.gm-note { margin-top: .8rem; }
+/* 正在生长 · 状态卡片 */
+.grow-grid { display: grid; gap: 1rem; margin: 1.2rem 0 2.5rem; }
+@media (min-width: 42rem) { .grow-grid { grid-template-columns: repeat(3, 1fr); } }
+.grow-card {
+  display: block; border: 1px solid var(--border); border-radius: 8px;
+  padding: 1rem 1.1rem;
+  background: color-mix(in srgb, var(--note-bg) 55%, var(--bg));
 }
-.growth-cycle svg { width: 100%; height: auto; display: block; position: relative; }
-.cycle-ring { fill: none; stroke: var(--gold); stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 2 10; opacity: .55; }
-.cycle-return { fill: none; stroke: var(--gold); stroke-width: 2.5; opacity: .9; }
-.cycle-halo-ring { fill: none; stroke: var(--border); stroke-width: 1; opacity: .9; }
-.cycle-center-zh { font-size: 26px; fill: var(--fg); text-anchor: middle; }
-.cycle-center-en { font-size: 14px; fill: var(--muted); text-anchor: middle; letter-spacing: .14em; }
-.cycle-dot { fill: var(--bg); stroke: var(--gold); stroke-width: 2.5; }
-.cycle-dot-idle { fill: var(--bg); stroke: var(--muted); stroke-width: 2; stroke-dasharray: 4 3; }
-.cycle-label-en { font-size: 17px; font-weight: 600; fill: var(--fg); letter-spacing: .02em; }
-.cycle-label-zh { font-size: 15px; fill: var(--muted); }
-.cycle-link { cursor: pointer; }
-.cycle-link:hover .cycle-dot, .cycle-link:focus .cycle-dot { stroke: var(--accent); }
-.cycle-link:hover .cycle-label-en, .cycle-link:focus .cycle-label-en { fill: var(--accent); }
-.cycle-traveler { fill: var(--gold); filter: drop-shadow(0 0 6px var(--gold)); }
-.cycle-traveler-halo { fill: var(--gold); opacity: .16; }
-.cycle-fly { fill: var(--gold); opacity: .32; }
-.cycle-note { margin-top: 1rem; }
+.grow-card:hover { border-color: var(--accent); text-decoration: none; }
+.grow-status {
+  display: inline-block; font-size: .76rem; letter-spacing: .08em;
+  color: var(--gold); border: 1px solid var(--gold); border-radius: 999px;
+  padding: .12em .8em; margin-bottom: .7rem;
+}
+.grow-card h3 { margin: 0 0 .45em; font-size: 1.05rem; border: none; }
+.grow-card h3 .meta { font-weight: 400; font-size: .85em; }
+.grow-card p { font-size: .9rem; color: var(--muted); margin: 0 0 .7rem; line-height: 1.7; }
+.grow-card .go { font-size: .88rem; color: var(--accent); }
 .cycle-door { margin: 1.5rem auto 2.5rem; max-width: 26rem; }
 .cycle-door .door-outside { text-align: center; color: var(--muted); font-size: .82rem; letter-spacing: .2em; margin: 0 0 .8rem; }
 @media (prefers-reduced-motion: reduce) {
-  .cycle-traveler, .cycle-traveler-halo { display: none; }
+  .gm-motion { display: none; }
 }
