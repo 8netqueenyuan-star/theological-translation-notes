@@ -8,7 +8,19 @@ status: "Canonical"
 #   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
 #   hinders / hindered_by —— A hinders B：A 妨碍 B
 #   related —— 默认：相关，类型待作者指定（不虚构关系类型）
-related_concepts: []
+related_concepts:
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "related"
+  - name: "Architectural Stewardship"
+    chinese_name: "架构管家职分"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    relation: "related"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
 ---
 
 # 统计收割 / Statistical Harvest

@@ -8,7 +8,19 @@ status: "Hypothesis"
 #   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
 #   hinders / hindered_by —— A hinders B：A 妨碍 B
 #   related —— 默认：相关，类型待作者指定（不虚构关系类型）
-related_concepts: []
+related_concepts:
+  - name: "Statistical Harvest"
+    chinese_name: "统计收割"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
+    relation: "related"
+  - name: "Architectural Stewardship"
+    chinese_name: "架构管家职分"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    relation: "related"
+  - name: "Inner Access"
+    chinese_name: "内在准入权"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/inner-access.html"
+    relation: "related"
 ---
 
 # SEED-Vessel-HARVEST / 种子-器皿-收成

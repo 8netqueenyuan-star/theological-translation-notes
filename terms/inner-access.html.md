@@ -8,7 +8,19 @@ status: "Hypothesis"
 #   exercised_in / exercises —— A exercised_in B：A 在 B 中被操练
 #   hinders / hindered_by —— A hinders B：A 妨碍 B
 #   related —— 默认：相关，类型待作者指定（不虚构关系类型）
-related_concepts: []
+related_concepts:
+  - name: "SEED-Vessel-HARVEST"
+    chinese_name: "种子-器皿-收成"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/seed-vessel-harvest.html"
+    relation: "related"
+  - name: "Internal Agency"
+    chinese_name: "内在能动性"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    relation: "related"
+  - name: "Endowed Personhood"
+    chinese_name: "被赋予的人格"
+    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    relation: "related"
 ---
 
 # Inner Access / 内在准入权
