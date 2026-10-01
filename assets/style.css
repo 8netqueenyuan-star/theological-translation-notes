@@ -360,7 +360,90 @@ details.ai-reading summary:hover { color: var(--fg); }
   background: var(--note-bg);
 }
 .featured-q .q-text { font-size: 1.12rem; }
-.revision-note { font-size: .82rem; color: var(--muted); border-top: 1px dotted var(--border); margin-top: 2.5rem; padding-top: .8rem; }
+/* 修订留痕：档案 slip。旧理解 → 新理解，不戏剧化。 */
+.revision-note {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--note-bg) 60%, var(--bg));
+  padding: .9rem 1.1rem;
+  margin-top: 2.5rem;
+  font-size: .88rem; color: var(--muted);
+}
+.revision-note::before {
+  content: "REVISION LOG · 修订留痕";
+  display: block;
+  font-size: .68rem; letter-spacing: .26em;
+  margin-bottom: .5rem;
+}
+.rev-old { text-decoration: line-through; text-decoration-thickness: 1px; }
+.rev-arrow { color: var(--gold); }
+.rev-new { color: var(--fg); font-weight: 600; }
+
+/* ============ 视觉世界层 · Living Archive × Enchanted World × Field Notes ============
+   原则：90% 现实，10% 异常。每页至多一种异常，不堆叠。
+   每一处都服务于 Observation → Question → Translation → Concept → Essay → Test → Revision。 */
+
+/* 折射记号：光线进入介质 → 分向两路。页面级分隔只用一次。 */
+.refract {
+  display: flex; align-items: center;
+  margin: 2.8rem auto; max-width: 26rem; padding: 0 1rem;
+  color: var(--gold);
+}
+.refract::before {
+  content: ""; flex: 0 0 34%; height: 1px;
+  background: currentColor; opacity: .55;
+}
+.refract i {
+  width: 7px; height: 7px; flex: none;
+  border: 1px solid currentColor; opacity: .85;
+  transform: rotate(45deg); margin: 0 .7rem;
+}
+.refract::after {
+  content: ""; flex: 1; height: 20px; opacity: .5;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='20' viewBox='0 0 120 20' preserveAspectRatio='none'%3E%3Cpath d='M0 10 L120 1 M0 10 L120 19' stroke='currentColor' stroke-width='1'/%3E%3C/svg%3E") no-repeat;
+  background-size: 100% 100%;
+}
+
+/* 边缘注释：极淡的环境文字，不抢正文；只在宽屏出现 */
+.edge-note {
+  display: none;
+  position: fixed; right: .9rem; top: 50%;
+  transform: translateY(-50%);
+  writing-mode: vertical-rl;
+  margin: 0; padding: 0;
+  font-size: .72rem; letter-spacing: .34em;
+  color: var(--muted); opacity: .5;
+  pointer-events: none; user-select: none;
+  z-index: 1;
+}
+@media (min-width: 74rem) { .edge-note { display: block; } }
+
+/* 思想标本：概念索引的博物馆标签感（编号自动生成，不硬编码） */
+.specimen-list { counter-reset: specimen; }
+.specimen-list > li {
+  counter-increment: specimen;
+  position: relative;
+  border-top: 1px solid var(--border);
+  padding-top: 1.15rem;
+}
+.specimen-list > li::before {
+  content: "CONCEPT " counter(specimen, decimal-leading-zero);
+  position: absolute; top: .15rem; left: 0;
+  font-size: .68rem; letter-spacing: .26em; color: var(--muted);
+}
+
+/* 概念卡速览：标本标签 */
+.info-block[aria-label="结构化速览"] {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding-top: 1.7rem;
+  position: relative;
+}
+.info-block[aria-label="结构化速览"]::before {
+  content: "FIELD SPECIMEN · 思想标本";
+  position: absolute; top: .6rem; left: 1.1rem;
+  font-size: .68rem; letter-spacing: .26em; color: var(--muted);
+}
 
 /* 思想生长路径 · 有质感的循环地图（非流程图） */
 .growth-map { margin: 1rem 0 .5rem; overflow-x: auto; }

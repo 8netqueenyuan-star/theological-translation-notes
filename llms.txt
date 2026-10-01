@@ -16,6 +16,7 @@
 - [关于](https://8netqueenyuan-star.github.io/theological-translation-notes/about/)：三一棱镜作者档案（Schema.org Person 标记）
 - [概念地图](https://8netqueenyuan-star.github.io/theological-translation-notes/concept-map/)：方法 → 概念 → 问题 → 文章的思想网络图，数据与 knowledge-graph.json 保持一致
 - [单篇文章模板](https://8netqueenyuan-star.github.io/theological-translation-notes/articles/_template.html)：Article + FAQPage 双 JSON-LD 的文章结构模板（含 AI Reading Layer 模板）
+- [Field Notes｜田野笔记](https://8netqueenyuan-star.github.io/theological-translation-notes/field-notes/)：隐藏入口（仅页脚 System 旁）—— 未完成的观察、未解决的问题、被放弃或修正的概念的留档区；正在生长，不在导航中
 
 ## 已发布条目
 
