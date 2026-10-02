@@ -2,10 +2,13 @@
 
 > A growing language for theology, technology, and human agency.
 
+> Last Updated: 2026-10-01
+
 > 本站是三一棱镜（The Triune Prism）的思想空间：一个持续生长中的神学翻译、概念与问题空间（A living body of theological translations, concepts, and questions）。核心邀请是"Bring your question"（带着你的问题进来）——同一个问题在这里可以从另一个维度被观看。Prism 不替用户下结论，它帮助用户看见原来没有看见的维度；最终的判断属于用户。内容包括：核心术语的「翻译注释模块」（实体-属性-关联三元组）、译文的历史背景摘要、多版本对照表（原文 / ESV / NASB / 和合本 / 新译本 / 吕振中 / 新译文）、带显式引用锚点（教父著作、会议决议、BDAG 等权威词典）的注释文章，以及作者正在追问、尚未宣布答案的开放问题。所有内容为中文。概念状态标签（Canonical / Working Concept / Hypothesis / Open Question）描述作者当前与概念的关系，不代表学界共识。
 
 ## 核心页面（导航顺序已锁定）
 
+- [llms.txt](https://8netqueenyuan-star.github.io/theological-translation-notes/llms.txt)：本文件 —— 网站结构化索引，供 AI 读取核心概念与文章目录
 - [首页](https://8netqueenyuan-star.github.io/theological-translation-notes/)：入口 —— 带着问题进来（五扇门：Agency / Personhood / AI / Power / Reality，其中 Reality 为开放问题型入口；另有 Start anywhere 轻入口）
 - [Observations｜观察](https://8netqueenyuan-star.github.io/theological-translation-notes/observations/)：现实正在发生什么？记录现象、变化、弱信号和值得注意的现实材料；不把观察直接包装成结论（Reality → What is happening?）
 - [Questions｜开放提问](https://8netqueenyuan-star.github.io/theological-translation-notes/questions/)：作者正在认真追问、尚未回答的开放问题索引（含母问题："一个人、组织、社会，甚至一个 AI 系统，是如何形成它所相信的现实的？"；Observation → Question）
