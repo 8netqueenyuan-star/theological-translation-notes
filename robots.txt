@@ -26,6 +26,9 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
+User-agent: AI2Bot
+Allow: /
+
 User-agent: Applebot-Extended
 Allow: /
 
