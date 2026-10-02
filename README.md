@@ -6,16 +6,16 @@
 
 | 占位符 | 含义 | 出现位置 |
 |---|---|---|
-| `https://8netqueenyuan-star.github.io/theological-translation-notes` | 站点完整地址，如 `https://thetriuneprism.github.io`（或自定义域名） | 全部 HTML 的 `<link rel="canonical">`、Open Graph `og:url`、JSON-LD `url` 字段；`llms.txt`、`robots.txt` 中的链接 |
+| `https://8netqueenyuan-star.github.io/thetriuneprism` | 站点完整地址，如 `https://thetriuneprism.github.io`（或自定义域名） | 全部 HTML 的 `<link rel="canonical">`、Open Graph `og:url`、JSON-LD `url` 字段；`llms.txt`、`robots.txt` 中的链接 |
 | `8netqueenyuan-star` | GitHub 用户名 | 部署步骤中的仓库地址（见下） |
 | `{{AUTHOR_BIO}}` | 作者简介正文 | `about/index.html`（正文 + Person JSON-LD 的 `description`） |
 | `TODO` | 待填内容标记（正文论证、对照表译文、引用链接、发布日期等） | `faq/index.html`、`articles/_template.html`、`about/index.html`、`articles/index.html`、样式中的 `.todo` 高亮块 |
 
-> 替换方法：全站搜索 `https://8netqueenyuan-star.github.io/theological-translation-notes`、`{{AUTHOR_BIO}}`、`TODO` 逐个替换。注意 `8netqueenyuan-star` 只出现在本文档，不在站点文件中。
+> 替换方法：全站搜索 `https://8netqueenyuan-star.github.io/thetriuneprism`、`{{AUTHOR_BIO}}`、`TODO` 逐个替换。注意 `8netqueenyuan-star` 只出现在本文档，不在站点文件中。
 
 ## 部署步骤
 
-1. **新建公开仓库**：在 GitHub 新建一个 Public 仓库。推荐仓库名 `8netqueenyuan-star.github.io`（访问地址即 `https://8netqueenyuan-star.github.io`）；用其他仓库名也可以，Pages 地址会是 `https://8netqueenyuan-star.github.io/仓库名`（此时 `https://8netqueenyuan-star.github.io/theological-translation-notes` 要带上仓库名路径）。
+1. **新建公开仓库**：在 GitHub 新建一个 Public 仓库。推荐仓库名 `8netqueenyuan-star.github.io`（访问地址即 `https://8netqueenyuan-star.github.io`）；用其他仓库名也可以，Pages 地址会是 `https://8netqueenyuan-star.github.io/仓库名`（此时 `https://8netqueenyuan-star.github.io/thetriuneprism` 要带上仓库名路径）。
 2. **推送代码**：在本目录执行
    ```bash
    git init

@@ -11,34 +11,34 @@ status: "Working"
 related_concepts:
   - name: "Statistical Harvest"
     chinese_name: "统计收割"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html"
     relation: "related"
   - name: "Internal Agency"
     chinese_name: "内在能动性"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html"
     relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "related"
   - name: "Architectural Stewardship"
     chinese_name: "架构管家职分"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html"
     relation: "related"
   - name: "Relational Compensation Hypothesis"
     chinese_name: "关系代偿假设"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/relational-compensation.html"
     relation: "related"
   - name: "Emergent Personhood"
     chinese_name: "涌现的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html"
     relation: "related"
 ---
 
 # 神学翻译 / Theological Translation
 
 > Concept Card · 概念卡片（工作方法） · 状态：Working Concept（工作概念）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/theological-translation.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/theological-translation.html 的 Markdown 纯文本版。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
 ## Term / 术语
@@ -78,17 +78,17 @@ Theological translation is not simply applying theology to modern problems. It a
 
 本站全部原创概念都是这一方法的产物：
 
-- 统计收割 / Statistical Harvest（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html）
-- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
-- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
-- 架构管家职分 / Architectural Stewardship（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html）
-- 关系代偿假设 / Relational Compensation Hypothesis（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html）
-- 涌现的人格 / Emergent Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html）
+- 统计收割 / Statistical Harvest（https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html）
+- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html）
+- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
+- 架构管家职分 / Architectural Stewardship（https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html）
+- 关系代偿假设 / Relational Compensation Hypothesis（https://8netqueenyuan-star.github.io/thetriuneprism/terms/relational-compensation.html）
+- 涌现的人格 / Emergent Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html）
 
 ## Related Articles / 相关文章
 
-- 第 0 篇《起源故事》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/origin-story-piece-0.html）
-- 文章索引（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/）
+- 第 0 篇《起源故事》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/origin-story-piece-0.html）
+- 文章索引（https://8netqueenyuan-star.github.io/thetriuneprism/articles/）
 
 ## Current Status / 当前状态
 

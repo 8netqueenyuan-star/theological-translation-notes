@@ -11,15 +11,15 @@ status: "Hypothesis"
 related_concepts:
   - name: "Statistical Harvest"
     chinese_name: "统计收割"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html"
     relation: "related"
   - name: "Architectural Stewardship"
     chinese_name: "架构管家职分"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html"
     relation: "related"
   - name: "Inner Access"
     chinese_name: "内在准入权"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/inner-access.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/inner-access.html"
     relation: "related"
 ---
 
@@ -27,7 +27,7 @@ related_concepts:
 
 > Concept Card · 概念卡片 · 方法论模型 · 状态：Hypothesis（假设，尚待现实检验）
 > 别名：思想的生命周期
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/seed-vessel-harvest.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/seed-vessel-harvest.html 的 Markdown 纯文本版。
 > **定义权声明**："SEED-Vessel-HARVEST"为作者三一棱镜原创概念，定义权归作者；全文逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -113,9 +113,9 @@ HARVEST的核心，是后果。而后果的本质，是重量。重量有两个�
 
 ## 与其他概念的关系
 
-- **Statistical Harvest（统计收割）**：SEED-Vessel-HARVEST是统计收割的解药。统计收割提取结构、抛弃重量；SEED-Vessel-HARVEST追踪重量、追问责任。（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html）
-- **Inner Access（内在准入权）**：内在准入权是SEED的守护者。没有内屋，种子就没有真实的源头。（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/inner-access.html）
-- **Architectural Stewardship（架构管家职分）**：Vessel的核心问题是：你在驯化工具，还是工具在驯化你？这是架构管家的具体操练。（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html）
+- **Statistical Harvest（统计收割）**：SEED-Vessel-HARVEST是统计收割的解药。统计收割提取结构、抛弃重量；SEED-Vessel-HARVEST追踪重量、追问责任。（https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html）
+- **Inner Access（内在准入权）**：内在准入权是SEED的守护者。没有内屋，种子就没有真实的源头。（https://8netqueenyuan-star.github.io/thetriuneprism/terms/inner-access.html）
+- **Architectural Stewardship（架构管家职分）**：Vessel的核心问题是：你在驯化工具，还是工具在驯化你？这是架构管家的具体操练。（https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html）
 
 ## 来源与背景
 

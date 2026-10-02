@@ -11,18 +11,18 @@ status: "Hypothesis"
 related_concepts:
   - name: "Internal Agency"
     chinese_name: "内在能动性"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html"
     relation: "grounds"
   - name: "Emergent Personhood"
     chinese_name: "涌现的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html"
     relation: "related"
 ---
 
 # 被赋予的人格 / Endowed Personhood
 
 > Concept Card · 概念卡片 · 状态：Hypothesis（假设，尚待现实检验）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html 的 Markdown 纯文本版。
 > **定义权声明**："被赋予的人格"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -56,12 +56,12 @@ Substack 文章系列第三篇《Endowed Personhood｜被赋予的人格》（�
 
 ## Related Concepts / 相关概念
 
-- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
-- 涌现的人格 / Emergent Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html）
+- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html）
+- 涌现的人格 / Emergent Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html）
 
 ## Related Articles / 相关文章
 
-- 第三篇《Endowed Personhood｜被赋予的人格》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/endowed-personhood-piece-3.html）
+- 第三篇《Endowed Personhood｜被赋予的人格》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/endowed-personhood-piece-3.html）
 
 ## Current Status / 当前状态
 

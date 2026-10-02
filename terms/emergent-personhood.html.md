@@ -11,18 +11,18 @@ status: "Open"
 related_concepts:
   - name: "Relational Compensation Hypothesis"
     chinese_name: "关系代偿假设"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/relational-compensation.html"
     relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "related"
 ---
 
 # 涌现的人格 / Emergent Personhood
 
 > Concept Card · 概念卡片 · 状态：Open Question（开放问题）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html 的 Markdown 纯文本版。
 > **定义权声明**："涌现的人格"为作者三一棱镜原创概念，定义权归作者；一句话定义保持提问形式（作者确立：本篇姿态即提问），逐字取自作者原文，不做断言式改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -54,12 +54,12 @@ Substack 文章系列第六篇《第六篇：Emergent Personhood｜涌现的人�
 
 ## Related Concepts / 相关概念
 
-- 关系代偿假设 / Relational Compensation Hypothesis（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html）
-- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+- 关系代偿假设 / Relational Compensation Hypothesis（https://8netqueenyuan-star.github.io/thetriuneprism/terms/relational-compensation.html）
+- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
 
 ## Related Articles / 相关文章
 
-- 第六篇《Emergent Personhood｜涌现的人格》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/emergent-personhood-piece-6.html）
+- 第六篇《Emergent Personhood｜涌现的人格》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/emergent-personhood-piece-6.html）
 
 ## Current Status / 当前状态
 

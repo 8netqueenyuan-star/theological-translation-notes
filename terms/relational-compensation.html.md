@@ -11,14 +11,14 @@ status: "Hypothesis"
 related_concepts:
   - name: "Emergent Personhood"
     chinese_name: "涌现的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html"
     relation: "related"
 ---
 
 # 关系代偿假设 / Relational Compensation Hypothesis
 
 > Concept Card · 概念卡片 · 状态：Hypothesis（假设）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/relational-compensation.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/relational-compensation.html 的 Markdown 纯文本版。
 > **定义权声明**："关系代偿假设"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者第五篇原文，不做改写；术语史注按作者本人意见记录。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -59,11 +59,11 @@ Substack 文章系列第五篇《关系代偿假设｜Relational Compensation Hy
 
 ## Related Concepts / 相关概念
 
-- 涌现的人格 / Emergent Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/emergent-personhood.html）
+- 涌现的人格 / Emergent Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/emergent-personhood.html）
 
 ## Related Articles / 相关文章
 
-- 第五篇《关系代偿假设｜Relational Compensation Hypothesis》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/relational-compensation-piece-5.html）
+- 第五篇《关系代偿假设｜Relational Compensation Hypothesis》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/relational-compensation-piece-5.html）
 
 ## Current Status / 当前状态
 

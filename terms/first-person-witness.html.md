@@ -11,18 +11,18 @@ status: "Hypothesis"
 related_concepts:
   - name: "Steward's Refusal"
     chinese_name: "管家的否决"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/right-of-refusal.html"
     relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "related"
 ---
 
 # 第一人称见证 / First-Person Witness
 
 > Concept Card · 概念卡片 · 状态：Hypothesis（假设，尚待现实检验）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/first-person-witness.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/first-person-witness.html 的 Markdown 纯文本版。
 > **定义权声明**："第一人称见证"为作者三一棱镜原创概念，定义权归作者；定义与边界逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -67,8 +67,8 @@ First-Person Witness
 
 ## Related Concepts / 相关概念
 
-- 管家的否决 | Steward's Refusal（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html）
-- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+- 管家的否决 | Steward's Refusal（https://8netqueenyuan-star.github.io/thetriuneprism/terms/right-of-refusal.html）
+- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
 
 ## Related Articles / 相关文章
 

@@ -11,14 +11,14 @@ status: "Canonical"
 related_concepts:
   - name: "Internal Agency"
     chinese_name: "内在能动性"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html"
     relation: "related"
 ---
 
 # 架构管家职分 / Architectural Stewardship
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html 的 Markdown 纯文本版。
 > **定义权声明**："架构管家职分"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -53,11 +53,11 @@ Substack 文章系列第四篇《Architectural Stewardship｜架构管家职分�
 
 ## Related Concepts / 相关概念
 
-- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
+- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html）
 
 ## Related Articles / 相关文章
 
-- 第四篇《Architectural Stewardship｜架构管家职分》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/architectural-stewardship-piece-4.html）
+- 第四篇《Architectural Stewardship｜架构管家职分》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/architectural-stewardship-piece-4.html）
 
 ## Current Status / 当前状态
 

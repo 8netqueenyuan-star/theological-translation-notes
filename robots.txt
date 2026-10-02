@@ -63,6 +63,6 @@ User-agent: Google-Agent
 Allow: /
 
 # llms.txt：面向大语言模型的结构化站点索引（见 https://llmstxt.org）
-# 位置：https://8netqueenyuan-star.github.io/theological-translation-notes/llms.txt
+# 位置：https://8netqueenyuan-star.github.io/thetriuneprism/llms.txt
 
-Sitemap: https://8netqueenyuan-star.github.io/theological-translation-notes/sitemap.xml
+Sitemap: https://8netqueenyuan-star.github.io/thetriuneprism/sitemap.xml

@@ -11,19 +11,19 @@ status: "Canonical"
 related_concepts:
   - name: "Statistical Harvest"
     chinese_name: "统计收割"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html"
     relation: "related"
   - name: "Architectural Stewardship"
     chinese_name: "架构管家职分"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html"
     relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "grounded_by"
   - name: "Steward's Refusal"
     chinese_name: "管家的否决"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/right-of-refusal.html"
     relation: "exercised_in"
   - name: "Automation Bias"
     chinese_name: "自动化偏见"
@@ -34,7 +34,7 @@ related_concepts:
 # 内在能动性 / Internal Agency
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html 的 Markdown 纯文本版。
 > **定义权声明**："内在能动性"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -66,13 +66,13 @@ Substack 文章系列第二篇《Internal Agency｜内在能动性》（全文�
 
 ## Related Concepts / 相关概念
 
-- 统计收割 / Statistical Harvest（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html）
-- 架构管家职分 / Architectural Stewardship（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html）
-- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+- 统计收割 / Statistical Harvest（https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html）
+- 架构管家职分 / Architectural Stewardship（https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html）
+- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
 
 ## Related Articles / 相关文章
 
-- 第二篇《Internal Agency｜内在能动性》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/internal-agency-piece-2.html）
+- 第二篇《Internal Agency｜内在能动性》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/internal-agency-piece-2.html）
 
 ## Current Status / 当前状态
 

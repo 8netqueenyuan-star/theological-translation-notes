@@ -11,15 +11,15 @@ status: "Hypothesis"
 related_concepts:
   - name: "SEED-Vessel-HARVEST"
     chinese_name: "种子-器皿-收成"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/seed-vessel-harvest.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/seed-vessel-harvest.html"
     relation: "related"
   - name: "Internal Agency"
     chinese_name: "内在能动性"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html"
     relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "related"
 ---
 
@@ -27,7 +27,7 @@ related_concepts:
 
 > Concept Card · 概念卡片 · 神学/哲学骨架 · 状态：Hypothesis（假设，尚待现实检验）
 > 别名：灵魂的至圣所
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/inner-access.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/inner-access.html 的 Markdown 纯文本版。
 > **定义权声明**："Inner Access"为作者三一棱镜原创概念，定义权归作者；全文逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -81,9 +81,9 @@ AI可以抓取你所有的行为数据、消费习惯、甚至你的表达模式
 
 ## 与其他概念的关系
 
-- **SEED-Vessel-HARVEST（种子-器皿-收成）**：内在准入权是SEED的守护者。如果种子来自内屋，它就有真实的源头；如果种子来自算法推荐，它就只是被投喂的替代品。（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/seed-vessel-harvest.html）
-- **Internal Agency（内在能动性）**：内在准入权是内在能动性的空间前提。没有内屋，就没有真正的判断和选择。（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
-- **Endowed Personhood（被赋予的人格）**：内在准入权的根基在于人格是被赋予的。因为你是按神形象造的，所以你有一个不能被算法殖民的内室。（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+- **SEED-Vessel-HARVEST（种子-器皿-收成）**：内在准入权是SEED的守护者。如果种子来自内屋，它就有真实的源头；如果种子来自算法推荐，它就只是被投喂的替代品。（https://8netqueenyuan-star.github.io/thetriuneprism/terms/seed-vessel-harvest.html）
+- **Internal Agency（内在能动性）**：内在准入权是内在能动性的空间前提。没有内屋，就没有真正的判断和选择。（https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html）
+- **Endowed Personhood（被赋予的人格）**：内在准入权的根基在于人格是被赋予的。因为你是按神形象造的，所以你有一个不能被算法殖民的内室。（https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
 
 ## 来源与背景
 

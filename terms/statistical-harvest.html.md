@@ -11,22 +11,22 @@ status: "Canonical"
 related_concepts:
   - name: "Internal Agency"
     chinese_name: "内在能动性"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html"
     relation: "related"
   - name: "Architectural Stewardship"
     chinese_name: "架构管家职分"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html"
     relation: "related"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "related"
 ---
 
 # 统计收割 / Statistical Harvest
 
 > Concept Card · 概念卡片 · 状态：Canonical（已确立）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/statistical-harvest.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/statistical-harvest.html 的 Markdown 纯文本版。
 > **定义权声明**："统计收割"为作者三一棱镜原创概念，定义权归作者；一句话定义与关键区分逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 
@@ -60,16 +60,16 @@ Substack 文章系列第 0 篇《起源故事》（总序，首发）；第一�
 
 ## Related Concepts / 相关概念
 
-内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
+内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html）
 
-架构管家职分 / Architectural Stewardship（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/architectural-stewardship.html）
+架构管家职分 / Architectural Stewardship（related；https://8netqueenyuan-star.github.io/thetriuneprism/terms/architectural-stewardship.html）
 
-被赋予的人格 / Endowed Personhood（早期曾用名：恩赐性人格；related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+被赋予的人格 / Endowed Personhood（早期曾用名：恩赐性人格；related；https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
 
 ## Related Articles / 相关文章
 
-- 第 0 篇《起源故事》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/origin-story-piece-0.html）
-- 第一篇《Statistical Harvest｜统计收割》（https://8netqueenyuan-star.github.io/theological-translation-notes/articles/statistical-harvest-piece-1.html）
+- 第 0 篇《起源故事》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/origin-story-piece-0.html）
+- 第一篇《Statistical Harvest｜统计收割》（https://8netqueenyuan-star.github.io/thetriuneprism/articles/statistical-harvest-piece-1.html）
 
 ## Current Status / 当前状态
 
@@ -99,8 +99,8 @@ AI 是在理解体验，还是在收割体验留下的结构？（第 0 篇开�
 
 ### 相关概念
 
-- 管家的否决 / Steward's Refusal（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html）
-- 第一人称见证 / First-Person Witness（related；https://8netqueenyuan-star.github.io/theological-translation-notes/terms/first-person-witness.html）
+- 管家的否决 / Steward's Refusal（related；https://8netqueenyuan-star.github.io/thetriuneprism/terms/right-of-refusal.html）
+- 第一人称见证 / First-Person Witness（related；https://8netqueenyuan-star.github.io/thetriuneprism/terms/first-person-witness.html）
 
 ## 理论对位：与"数据殖民主义"的区别
 

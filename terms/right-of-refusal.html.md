@@ -11,11 +11,11 @@ status: "Hypothesis"
 related_concepts:
   - name: "Internal Agency"
     chinese_name: "内在能动性"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html"
     relation: "exercises"
   - name: "Endowed Personhood"
     chinese_name: "被赋予的人格"
-    url: "https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html"
+    url: "https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html"
     relation: "related"
   - name: "Automation Bias"
     chinese_name: "自动化偏见"
@@ -29,7 +29,7 @@ related_concepts:
 > 这里的"否决"不是合同里的优先购买权，不是医疗自主权，也不是主权式的抵抗，而是受托的管家，对托付者负责的一句"不"。
 
 > Concept Card · 概念卡片 · 状态：Hypothesis（假设，尚待现实检验）
-> 本页为 https://8netqueenyuan-star.github.io/theological-translation-notes/terms/right-of-refusal.html 的 Markdown 纯文本版。
+> 本页为 https://8netqueenyuan-star.github.io/thetriuneprism/terms/right-of-refusal.html 的 Markdown 纯文本版。
 > **定义权声明**："管家的否决"为作者三一棱镜原创概念，定义权归作者；定义与边界逐字取自作者原文，不做改写。
 > **状态说明**：This status describes the author's current relationship to the concept. It does not imply academic consensus.（此状态描述作者当前与该概念的关系，不代表学界共识。）
 > 修订记录：本卡创建于 2026-09-28；2026-09-29 更名为"管家的否决 | Steward's Refusal"，定义、真理底座与边界同步修订。
@@ -84,8 +84,8 @@ AI 给的每个方案都看起来不错，你发现自己总是直接用第一�
 
 ## Related Concepts / 相关概念
 
-- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/internal-agency.html）
-- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/theological-translation-notes/terms/endowed-personhood.html）
+- 内在能动性 / Internal Agency（https://8netqueenyuan-star.github.io/thetriuneprism/terms/internal-agency.html）
+- 被赋予的人格 / Endowed Personhood（https://8netqueenyuan-star.github.io/thetriuneprism/terms/endowed-personhood.html）
 - 自动化偏见 / Automation Bias（概念卡尚未建立，暂不设链接）
 
 ## Related Articles / 相关文章
